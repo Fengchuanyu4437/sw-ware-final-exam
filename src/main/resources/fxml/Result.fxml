@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<?import javafx.scene.text.Font?>
+<AnchorPane maxHeight="-Infinity"
+            maxWidth="-Infinity"
+            minHeight="-Infinity"
+            minWidth="-Infinity"
+            style="-fx-background-color: cornsilk;"
+            xmlns="http://javafx.com/javafx"
+            xmlns:fx="http://javafx.com/fxml"
+            fx:controller="Controller.Result"
+            prefHeight="700.0" prefWidth="700.0">
+    <children>
+        <TableView fx:id="RecordTable" editable="true" layoutX="25.0" layoutY="74.0" prefHeight="550.0" prefWidth="650.0" style="-fx-background-color: cornsilk;">
+            <columns>
+                <TableColumn fx:id="Winer" prefWidth="100.0" text="Player" />
+                <TableColumn fx:id="Settlement" prefWidth="50.0" text="Settlement" />
+                <TableColumn fx:id="PlayTime" prefWidth="100.0" text="Duration" />
+                <TableColumn fx:id="CreateTime" prefWidth="195.0" text="Date" />
+                <TableColumn fx:id="Playone" prefWidth="100.0" text="Playone" />
+                <TableColumn fx:id="Playtwo" prefWidth="100.0" text="Playtwo" />
+            </columns>
+        </TableView>
+        <Label layoutX="272.0" layoutY="32.0" text="Play Record">
+            <font>
+                <Font size="22.0" />
+            </font>
+        </Label>
+        <Button layoutX="300.0" layoutY="635.0" mnemonicParsing="false" onAction="#RestartButton" prefHeight="51.0" prefWidth="122.0" text="Restart" />
+    </children>
+</AnchorPane>

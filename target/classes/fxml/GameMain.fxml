@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import java.lang.*?>
+<?import java.util.*?>
+<?import javafx.scene.*?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<?import javafx.scene.text.Font?>
+<AnchorPane xmlns="http://javafx.com/javafx"
+            xmlns:fx="http://javafx.com/fxml"
+            fx:controller="Controller.GameMain"
+            prefHeight="400.0" prefWidth="600.0">
+    <Label layoutX="161.0" layoutY="193.0" text="player1"/>
+    <Label layoutX="161.0" layoutY="245.0" text="player2"/>
+    <TextField fx:id="playone" layoutX="249.0" layoutY="189.0"/>
+    <TextField fx:id="playtwo" layoutX="249.0" layoutY="241.0"/>
+    <Label layoutX="179.0" layoutY="84.0" prefHeight="59.0" prefWidth="280.0" text="Start Game">
+        <font>
+            <Font size="48.0"/>
+        </font>
+    </Label>
+    <Button fx:id="startButton" layoutX="278.0" layoutY="312.0" mnemonicParsing="false" onAction="#start" text="Start"/>
+</AnchorPane>

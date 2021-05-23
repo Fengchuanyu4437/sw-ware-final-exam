@@ -1,0 +1,1775 @@
+2021-05-22 14:49:53 INFO  GameStart:16 - Starting application...
+2021-05-22 14:50:20 INFO  GameStart:16 - Starting application...
+2021-05-22 15:48:45 INFO  GameStart:16 - Starting application...
+2021-05-22 15:49:25 INFO  GameStart:16 - Starting application...
+2021-05-22 15:50:48 INFO  GameStart:16 - Starting application...
+2021-05-22 15:51:11 INFO  GameStart:16 - Starting application...
+2021-05-22 15:51:54 INFO  GameStart:16 - Starting application...
+2021-05-22 15:54:14 INFO  GameStart:16 - Starting application...
+2021-05-22 15:54:47 INFO  GameStart:16 - Starting application...
+2021-05-22 15:55:18 INFO  GameStart:16 - Starting application...
+2021-05-22 15:55:58 INFO  GameStart:16 - Starting application...
+2021-05-22 15:56:11 INFO  GameStart:16 - Starting application...
+2021-05-22 15:56:37 INFO  GameStart:16 - Starting application...
+2021-05-22 15:57:01 INFO  GameStart:16 - Starting application...
+2021-05-22 15:58:46 INFO  GameStart:16 - Starting application...
+2021-05-22 16:02:48 INFO  GameStart:16 - Starting application...
+2021-05-22 16:44:59 INFO  GameStart:16 - Starting application...
+2021-05-22 16:51:11 INFO  GameStart:16 - Starting application...
+2021-05-22 16:53:31 INFO  GameStart:16 - Starting application...
+2021-05-22 17:04:46 INFO  GameStart:16 - Starting application...
+2021-05-22 17:06:11 INFO  GameStart:16 - Starting application...
+2021-05-22 17:09:25 INFO  GameStart:16 - Starting application...
+2021-05-22 17:11:40 INFO  GameStart:16 - Starting application...
+2021-05-22 17:12:34 INFO  GameStart:16 - Starting application...
+2021-05-22 17:12:37 INFO  GameMain:34 - The player1 name is set to {52315}, loading game scene
+2021-05-22 17:12:37 INFO  GameMain:35 - The player2 name is set to {3215}, loading game scene
+2021-05-22 17:12:47 INFO  Playing:155 - Click on square (1,4)
+2021-05-22 17:12:48 INFO  Playing:155 - Click on square (1,3)
+2021-05-22 17:12:48 INFO  Playing:171 - Moving piece 6 LEFT
+2021-05-22 17:12:48 INFO  Playing:245 - Move: (1,4) -> (1,3)
+2021-05-22 17:12:50 INFO  Playing:155 - Click on square (4,3)
+2021-05-22 17:12:50 INFO  Playing:155 - Click on square (3,3)
+2021-05-22 17:12:50 INFO  Playing:171 - Moving piece 12 UP
+2021-05-22 17:12:50 INFO  Playing:245 - Move: (4,3) -> (3,3)
+2021-05-22 17:12:51 INFO  Playing:155 - Click on square (4,2)
+2021-05-22 17:12:51 INFO  Playing:155 - Click on square (3,2)
+2021-05-22 17:12:51 INFO  Playing:171 - Moving piece 11 UP
+2021-05-22 17:12:51 INFO  Playing:245 - Move: (4,2) -> (3,2)
+2021-05-22 17:12:51 INFO  Playing:155 - Click on square (4,1)
+2021-05-22 17:12:52 INFO  Playing:155 - Click on square (3,1)
+2021-05-22 17:12:52 INFO  Playing:171 - Moving piece 10 UP
+2021-05-22 17:12:52 INFO  Playing:245 - Move: (4,1) -> (3,1)
+2021-05-22 17:12:52 INFO  Playing:155 - Click on square (3,0)
+2021-05-22 17:12:53 INFO  Playing:155 - Click on square (3,0)
+2021-05-22 17:12:54 INFO  Playing:155 - Click on square (2,0)
+2021-05-22 17:12:54 INFO  Playing:171 - Moving piece 7 UP
+2021-05-22 17:12:54 INFO  Playing:245 - Move: (3,0) -> (2,0)
+2021-05-22 17:12:54 INFO  Playing:155 - Click on square (4,0)
+2021-05-22 17:12:55 INFO  Playing:155 - Click on square (3,0)
+2021-05-22 17:12:55 INFO  Playing:171 - Moving piece 9 UP
+2021-05-22 17:12:55 INFO  Playing:245 - Move: (4,0) -> (3,0)
+2021-05-22 17:12:55 INFO  Playing:155 - Click on square (3,1)
+2021-05-22 17:12:55 INFO  Playing:155 - Click on square (2,1)
+2021-05-22 17:12:55 INFO  Playing:171 - Moving piece 10 UP
+2021-05-22 17:12:55 INFO  Playing:245 - Move: (3,1) -> (2,1)
+2021-05-22 17:12:56 INFO  Playing:155 - Click on square (3,2)
+2021-05-22 17:12:56 INFO  Playing:155 - Click on square (2,2)
+2021-05-22 17:12:56 INFO  Playing:171 - Moving piece 11 UP
+2021-05-22 17:12:56 INFO  Playing:245 - Move: (3,2) -> (2,2)
+2021-05-22 17:12:56 INFO  Playing:155 - Click on square (3,3)
+2021-05-22 17:12:57 INFO  Playing:155 - Click on square (2,3)
+2021-05-22 17:12:57 INFO  Playing:171 - Moving piece 12 UP
+2021-05-22 17:12:57 INFO  Playing:245 - Move: (3,3) -> (2,3)
+2021-05-22 17:12:57 INFO  Playing:155 - Click on square (3,4)
+2021-05-22 17:12:57 INFO  Playing:155 - Click on square (2,4)
+2021-05-22 17:12:57 INFO  Playing:171 - Moving piece 8 UP
+2021-05-22 17:12:57 INFO  Playing:245 - Move: (3,4) -> (2,4)
+2021-05-22 17:12:58 INFO  Playing:155 - Click on square (4,4)
+2021-05-22 17:12:58 INFO  Playing:155 - Click on square (3,4)
+2021-05-22 17:12:58 INFO  Playing:171 - Moving piece 13 UP
+2021-05-22 17:12:58 INFO  Playing:245 - Move: (4,4) -> (3,4)
+2021-05-22 17:20:26 INFO  GameStart:16 - Starting application...
+2021-05-22 17:20:31 INFO  GameMain:34 - The player1 name is set to {ewqrwq}, loading game scene
+2021-05-22 17:20:31 INFO  GameMain:35 - The player2 name is set to {qweq}, loading game scene
+2021-05-22 17:20:52 INFO  GameStart:16 - Starting application...
+2021-05-22 17:21:02 INFO  GameMain:34 - The player1 name is set to {sfsad}, loading game scene
+2021-05-22 17:21:02 INFO  GameMain:35 - The player2 name is set to {asfda}, loading game scene
+2021-05-22 17:21:04 INFO  Playing:155 - Click on square (1,4)
+2021-05-22 17:21:04 INFO  Playing:155 - Click on square (1,3)
+2021-05-22 17:21:04 INFO  Playing:171 - Moving piece 6 LEFT
+2021-05-22 17:21:04 INFO  Playing:245 - Move: (1,4) -> (1,3)
+2021-05-22 17:21:05 INFO  Playing:155 - Click on square (1,3)
+2021-05-22 17:21:05 INFO  Playing:155 - Click on square (2,3)
+2021-05-22 17:21:05 INFO  Playing:171 - Moving piece 6 DOWN
+2021-05-22 17:21:05 INFO  Playing:245 - Move: (1,3) -> (2,3)
+2021-05-22 17:21:05 INFO  Playing:155 - Click on square (4,3)
+2021-05-22 17:21:06 INFO  Playing:155 - Click on square (3,3)
+2021-05-22 17:21:06 INFO  Playing:171 - Moving piece 12 UP
+2021-05-22 17:21:06 INFO  Playing:245 - Move: (4,3) -> (3,3)
+2021-05-22 17:21:07 DEBUG Playing:306 - settlement is pressed
+2021-05-22 17:21:07 INFO  Playing:310 - Loading high scores scene...
+2021-05-22 17:26:49 INFO  GameStart:16 - Starting application...
+2021-05-22 17:26:52 INFO  GameMain:34 - The player1 name is set to {asda}, loading game scene
+2021-05-22 17:26:52 INFO  GameMain:35 - The player2 name is set to {fasfs}, loading game scene
+2021-05-22 17:27:14 INFO  Playing:155 - Click on square (5,3)
+2021-05-22 17:27:42 INFO  GameStart:16 - Starting application...
+2021-05-22 17:27:46 INFO  GameMain:34 - The player1 name is set to {qewq}, loading game scene
+2021-05-22 17:27:46 INFO  GameMain:35 - The player2 name is set to {ewqewq}, loading game scene
+2021-05-22 23:14:27 INFO  GameStart:16 - Starting application...
+2021-05-22 23:14:31 INFO  GameMain:34 - The player1 name is set to {qa}, loading game scene
+2021-05-22 23:14:31 INFO  GameMain:35 - The player2 name is set to {sda}, loading game scene
+2021-05-22 23:14:34 DEBUG Playing:306 - settlement is pressed
+2021-05-22 23:14:34 INFO  Playing:310 - Loading high scores scene...
+2021-05-22 23:59:15 INFO  GameStart:16 - Starting application...
+2021-05-22 23:59:18 INFO  GameMain:34 - The player1 name is set to {qwe}, loading game scene
+2021-05-22 23:59:18 INFO  GameMain:35 - The player2 name is set to {ewqew}, loading game scene
+2021-05-22 23:59:19 INFO  Playing:155 - Click on square (3,4)
+2021-05-22 23:59:19 INFO  Playing:155 - Click on square (2,4)
+2021-05-22 23:59:19 INFO  Playing:171 - Moving piece 8 UP
+2021-05-22 23:59:19 INFO  Playing:245 - Move: (3,4) -> (2,4)
+2021-05-22 23:59:19 INFO  Victory:36 - this color:RED
+2021-05-22 23:59:20 INFO  Playing:155 - Click on square (4,4)
+2021-05-22 23:59:20 INFO  Playing:155 - Click on square (3,4)
+2021-05-22 23:59:20 INFO  Playing:171 - Moving piece 13 UP
+2021-05-22 23:59:20 INFO  Playing:245 - Move: (4,4) -> (3,4)
+2021-05-22 23:59:20 INFO  Victory:36 - this color:RED
+2021-05-22 23:59:21 INFO  Playing:155 - Click on square (1,4)
+2021-05-22 23:59:21 INFO  Playing:155 - Click on square (1,3)
+2021-05-22 23:59:21 INFO  Playing:171 - Moving piece 6 LEFT
+2021-05-22 23:59:21 INFO  Playing:245 - Move: (1,4) -> (1,3)
+2021-05-22 23:59:21 INFO  Victory:36 - this color:BLUE
+2021-05-22 23:59:22 INFO  Playing:155 - Click on square (2,4)
+2021-05-22 23:59:22 INFO  Playing:155 - Click on square (1,4)
+2021-05-22 23:59:22 INFO  Playing:171 - Moving piece 8 UP
+2021-05-22 23:59:22 INFO  Playing:245 - Move: (2,4) -> (1,4)
+2021-05-22 23:59:22 INFO  Victory:36 - this color:RED
+2021-05-22 23:59:23 INFO  Playing:155 - Click on square (3,4)
+2021-05-22 23:59:23 INFO  Playing:155 - Click on square (2,4)
+2021-05-22 23:59:23 INFO  Playing:171 - Moving piece 13 UP
+2021-05-22 23:59:23 INFO  Playing:245 - Move: (3,4) -> (2,4)
+2021-05-22 23:59:23 INFO  Victory:36 - this color:RED
+2021-05-22 23:59:24 INFO  Playing:155 - Click on square (2,3)
+2021-05-22 23:59:24 INFO  Playing:155 - Click on square (1,3)
+2021-05-22 23:59:25 INFO  Playing:155 - Click on square (2,3)
+2021-05-22 23:59:25 INFO  Playing:171 - Moving piece 6 DOWN
+2021-05-22 23:59:25 INFO  Playing:245 - Move: (1,3) -> (2,3)
+2021-05-22 23:59:25 INFO  Victory:36 - this color:BLUE
+2021-05-22 23:59:26 INFO  Playing:155 - Click on square (0,3)
+2021-05-22 23:59:26 INFO  Playing:155 - Click on square (1,3)
+2021-05-22 23:59:26 INFO  Playing:171 - Moving piece 3 DOWN
+2021-05-22 23:59:26 INFO  Playing:245 - Move: (0,3) -> (1,3)
+2021-05-22 23:59:26 INFO  Victory:36 - this color:BLUE
+2021-05-22 23:59:27 INFO  Playing:155 - Click on square (0,4)
+2021-05-22 23:59:27 INFO  Playing:155 - Click on square (0,3)
+2021-05-22 23:59:27 INFO  Playing:171 - Moving piece 4 LEFT
+2021-05-22 23:59:27 INFO  Playing:245 - Move: (0,4) -> (0,3)
+2021-05-22 23:59:27 INFO  Victory:36 - this color:BLUE
+2021-05-22 23:59:27 INFO  Playing:155 - Click on square (1,4)
+2021-05-22 23:59:28 INFO  Playing:155 - Click on square (0,4)
+2021-05-22 23:59:28 INFO  Playing:171 - Moving piece 8 UP
+2021-05-22 23:59:28 INFO  Playing:245 - Move: (1,4) -> (0,4)
+2021-05-22 23:59:28 INFO  Victory:36 - this color:RED
+2021-05-22 23:59:28 INFO  Playing:155 - Click on square (2,4)
+2021-05-22 23:59:28 INFO  Playing:155 - Click on square (1,4)
+2021-05-22 23:59:28 INFO  Playing:171 - Moving piece 13 UP
+2021-05-22 23:59:28 INFO  Playing:245 - Move: (2,4) -> (1,4)
+2021-05-22 23:59:28 INFO  Victory:36 - this color:RED
+2021-05-22 23:59:29 INFO  Playing:155 - Click on square (2,3)
+2021-05-22 23:59:29 INFO  Playing:155 - Click on square (2,4)
+2021-05-22 23:59:29 INFO  Playing:171 - Moving piece 6 RIGHT
+2021-05-22 23:59:29 INFO  Playing:245 - Move: (2,3) -> (2,4)
+2021-05-22 23:59:29 INFO  Victory:36 - this color:BLUE
+2021-05-22 23:59:29 INFO  Playing:155 - Click on square (1,3)
+2021-05-22 23:59:30 INFO  Playing:155 - Click on square (2,3)
+2021-05-22 23:59:30 INFO  Playing:171 - Moving piece 3 DOWN
+2021-05-22 23:59:30 INFO  Playing:245 - Move: (1,3) -> (2,3)
+2021-05-22 23:59:30 INFO  Victory:36 - this color:BLUE
+2021-05-22 23:59:31 INFO  Playing:155 - Click on square (2,4)
+2021-05-22 23:59:31 INFO  Playing:155 - Click on square (3,4)
+2021-05-22 23:59:31 INFO  Playing:171 - Moving piece 6 DOWN
+2021-05-22 23:59:31 INFO  Playing:245 - Move: (2,4) -> (3,4)
+2021-05-22 23:59:31 INFO  Victory:36 - this color:BLUE
+2021-05-22 23:59:31 INFO  Playing:155 - Click on square (2,3)
+2021-05-22 23:59:32 INFO  Playing:155 - Click on square (2,4)
+2021-05-22 23:59:32 INFO  Playing:171 - Moving piece 3 RIGHT
+2021-05-22 23:59:32 INFO  Playing:245 - Move: (2,3) -> (2,4)
+2021-05-22 23:59:32 INFO  Victory:36 - this color:BLUE
+2021-05-22 23:59:32 INFO  Playing:155 - Click on square (0,3)
+2021-05-22 23:59:32 INFO  Playing:155 - Click on square (1,3)
+2021-05-22 23:59:32 INFO  Playing:171 - Moving piece 4 DOWN
+2021-05-22 23:59:32 INFO  Playing:245 - Move: (0,3) -> (1,3)
+2021-05-22 23:59:32 INFO  Victory:36 - this color:BLUE
+2021-05-22 23:59:33 INFO  Playing:155 - Click on square (1,3)
+2021-05-22 23:59:33 INFO  Playing:155 - Click on square (2,3)
+2021-05-22 23:59:33 INFO  Playing:171 - Moving piece 4 DOWN
+2021-05-22 23:59:33 INFO  Playing:245 - Move: (1,3) -> (2,3)
+2021-05-22 23:59:33 INFO  Victory:36 - this color:BLUE
+2021-05-22 23:59:34 INFO  Playing:155 - Click on square (2,4)
+2021-05-22 23:59:35 INFO  Playing:155 - Click on square (3,4)
+2021-05-22 23:59:35 INFO  Playing:155 - Click on square (3,3)
+2021-05-22 23:59:35 INFO  Playing:171 - Moving piece 3 DOWN_LEFT
+2021-05-22 23:59:35 INFO  Playing:245 - Move: (2,4) -> (3,3)
+2021-05-22 23:59:35 INFO  Victory:36 - this color:BLUE
+2021-05-22 23:59:36 INFO  Playing:155 - Click on square (3,4)
+2021-05-22 23:59:37 INFO  Playing:155 - Click on square (4,4)
+2021-05-22 23:59:37 INFO  Playing:171 - Moving piece 6 DOWN
+2021-05-22 23:59:37 INFO  Playing:245 - Move: (3,4) -> (4,4)
+2021-05-22 23:59:37 INFO  Victory:36 - this color:BLUE
+2021-05-22 23:59:37 INFO  Playing:155 - Click on square (3,3)
+2021-05-22 23:59:37 INFO  Playing:155 - Click on square (3,4)
+2021-05-22 23:59:37 INFO  Playing:171 - Moving piece 3 RIGHT
+2021-05-22 23:59:37 INFO  Playing:245 - Move: (3,3) -> (3,4)
+2021-05-22 23:59:37 INFO  Victory:36 - this color:BLUE
+2021-05-22 23:59:38 INFO  Playing:155 - Click on square (2,3)
+2021-05-22 23:59:38 INFO  Playing:155 - Click on square (2,4)
+2021-05-22 23:59:38 INFO  Playing:171 - Moving piece 4 RIGHT
+2021-05-22 23:59:38 INFO  Playing:245 - Move: (2,3) -> (2,4)
+2021-05-22 23:59:38 INFO  Victory:36 - this color:BLUE
+2021-05-22 23:59:39 INFO  Playing:155 - Click on square (3,0)
+2021-05-22 23:59:40 INFO  Playing:155 - Click on square (2,0)
+2021-05-22 23:59:40 INFO  Playing:171 - Moving piece 7 UP
+2021-05-22 23:59:40 INFO  Playing:245 - Move: (3,0) -> (2,0)
+2021-05-22 23:59:40 INFO  Victory:36 - this color:RED
+2021-05-22 23:59:40 INFO  Playing:155 - Click on square (4,1)
+2021-05-22 23:59:40 INFO  Playing:155 - Click on square (3,1)
+2021-05-22 23:59:40 INFO  Playing:171 - Moving piece 10 UP
+2021-05-22 23:59:40 INFO  Playing:245 - Move: (4,1) -> (3,1)
+2021-05-22 23:59:40 INFO  Victory:36 - this color:RED
+2021-05-22 23:59:41 INFO  Playing:155 - Click on square (4,2)
+2021-05-22 23:59:41 INFO  Playing:155 - Click on square (3,2)
+2021-05-22 23:59:41 INFO  Playing:171 - Moving piece 11 UP
+2021-05-22 23:59:41 INFO  Playing:245 - Move: (4,2) -> (3,2)
+2021-05-22 23:59:41 INFO  Victory:36 - this color:RED
+2021-05-22 23:59:41 INFO  Playing:155 - Click on square (4,3)
+2021-05-22 23:59:42 INFO  Playing:155 - Click on square (3,3)
+2021-05-22 23:59:42 INFO  Playing:171 - Moving piece 12 UP
+2021-05-22 23:59:42 INFO  Playing:245 - Move: (4,3) -> (3,3)
+2021-05-22 23:59:42 INFO  Victory:36 - this color:RED
+2021-05-22 23:59:42 INFO  Playing:155 - Click on square (3,3)
+2021-05-22 23:59:42 INFO  Playing:155 - Click on square (2,3)
+2021-05-22 23:59:42 INFO  Playing:171 - Moving piece 12 UP
+2021-05-22 23:59:42 INFO  Playing:245 - Move: (3,3) -> (2,3)
+2021-05-22 23:59:42 INFO  Victory:36 - this color:RED
+2021-05-22 23:59:43 INFO  Playing:155 - Click on square (3,2)
+2021-05-22 23:59:43 INFO  Playing:155 - Click on square (2,2)
+2021-05-22 23:59:43 INFO  Playing:171 - Moving piece 11 UP
+2021-05-22 23:59:43 INFO  Playing:245 - Move: (3,2) -> (2,2)
+2021-05-22 23:59:43 INFO  Victory:36 - this color:RED
+2021-05-22 23:59:43 INFO  Playing:155 - Click on square (3,1)
+2021-05-22 23:59:44 INFO  Playing:155 - Click on square (2,1)
+2021-05-22 23:59:44 INFO  Playing:171 - Moving piece 10 UP
+2021-05-22 23:59:44 INFO  Playing:245 - Move: (3,1) -> (2,1)
+2021-05-22 23:59:44 INFO  Victory:36 - this color:RED
+2021-05-22 23:59:44 INFO  Playing:155 - Click on square (2,2)
+2021-05-22 23:59:44 INFO  Playing:155 - Click on square (1,2)
+2021-05-22 23:59:44 INFO  Playing:171 - Moving piece 11 UP
+2021-05-22 23:59:44 INFO  Playing:245 - Move: (2,2) -> (1,2)
+2021-05-22 23:59:44 INFO  Victory:36 - this color:RED
+2021-05-22 23:59:45 INFO  Playing:155 - Click on square (2,3)
+2021-05-22 23:59:45 INFO  Playing:155 - Click on square (1,3)
+2021-05-22 23:59:45 INFO  Playing:171 - Moving piece 12 UP
+2021-05-22 23:59:45 INFO  Playing:245 - Move: (2,3) -> (1,3)
+2021-05-22 23:59:45 INFO  Victory:36 - this color:RED
+2021-05-22 23:59:45 INFO  Playing:155 - Click on square (2,1)
+2021-05-22 23:59:46 INFO  Playing:155 - Click on square (2,2)
+2021-05-22 23:59:46 INFO  Playing:171 - Moving piece 10 RIGHT
+2021-05-22 23:59:46 INFO  Playing:245 - Move: (2,1) -> (2,2)
+2021-05-22 23:59:46 INFO  Victory:36 - this color:RED
+2021-05-22 23:59:46 INFO  Playing:155 - Click on square (0,1)
+2021-05-22 23:59:47 INFO  Playing:155 - Click on square (1,1)
+2021-05-22 23:59:47 INFO  Playing:171 - Moving piece 1 DOWN
+2021-05-22 23:59:47 INFO  Playing:245 - Move: (0,1) -> (1,1)
+2021-05-22 23:59:47 INFO  Victory:36 - this color:BLUE
+2021-05-22 23:59:47 INFO  Playing:155 - Click on square (0,2)
+2021-05-22 23:59:47 INFO  Playing:155 - Click on square (0,1)
+2021-05-22 23:59:47 INFO  Playing:171 - Moving piece 2 LEFT
+2021-05-22 23:59:47 INFO  Playing:245 - Move: (0,2) -> (0,1)
+2021-05-22 23:59:47 INFO  Victory:36 - this color:BLUE
+2021-05-22 23:59:47 INFO  Playing:155 - Click on square (1,1)
+2021-05-22 23:59:48 INFO  Playing:155 - Click on square (2,1)
+2021-05-22 23:59:48 INFO  Playing:171 - Moving piece 1 DOWN
+2021-05-22 23:59:48 INFO  Playing:245 - Move: (1,1) -> (2,1)
+2021-05-22 23:59:48 INFO  Victory:36 - this color:BLUE
+2021-05-22 23:59:48 INFO  Playing:155 - Click on square (0,1)
+2021-05-22 23:59:49 INFO  Playing:155 - Click on square (1,1)
+2021-05-22 23:59:49 INFO  Playing:171 - Moving piece 2 DOWN
+2021-05-22 23:59:49 INFO  Playing:245 - Move: (0,1) -> (1,1)
+2021-05-22 23:59:49 INFO  Victory:36 - this color:BLUE
+2021-05-22 23:59:49 INFO  Playing:155 - Click on square (2,0)
+2021-05-22 23:59:50 INFO  Playing:155 - Click on square (3,0)
+2021-05-22 23:59:50 INFO  Playing:171 - Moving piece 7 DOWN
+2021-05-22 23:59:50 INFO  Playing:245 - Move: (2,0) -> (3,0)
+2021-05-22 23:59:50 INFO  Victory:36 - this color:RED
+2021-05-22 23:59:50 INFO  Playing:155 - Click on square (2,1)
+2021-05-22 23:59:51 INFO  Playing:155 - Click on square (3,1)
+2021-05-22 23:59:51 INFO  Playing:171 - Moving piece 1 DOWN
+2021-05-22 23:59:51 INFO  Playing:245 - Move: (2,1) -> (3,1)
+2021-05-22 23:59:51 INFO  Victory:36 - this color:BLUE
+2021-05-22 23:59:51 INFO  Playing:155 - Click on square (1,1)
+2021-05-22 23:59:52 INFO  Playing:155 - Click on square (2,1)
+2021-05-22 23:59:52 INFO  Playing:171 - Moving piece 2 DOWN
+2021-05-22 23:59:52 INFO  Playing:245 - Move: (1,1) -> (2,1)
+2021-05-22 23:59:52 INFO  Victory:36 - this color:BLUE
+2021-05-22 23:59:52 INFO  Playing:155 - Click on square (1,0)
+2021-05-22 23:59:52 INFO  Playing:155 - Click on square (1,1)
+2021-05-22 23:59:52 INFO  Playing:171 - Moving piece 5 RIGHT
+2021-05-22 23:59:52 INFO  Playing:245 - Move: (1,0) -> (1,1)
+2021-05-22 23:59:52 INFO  Victory:36 - this color:BLUE
+2021-05-22 23:59:53 INFO  Playing:155 - Click on square (0,0)
+2021-05-22 23:59:53 INFO  Playing:155 - Click on square (1,0)
+2021-05-22 23:59:53 INFO  Playing:171 - Moving piece 0 DOWN
+2021-05-22 23:59:53 INFO  Playing:245 - Move: (0,0) -> (1,0)
+2021-05-22 23:59:53 INFO  Victory:36 - this color:BLUE
+2021-05-22 23:59:54 INFO  Playing:155 - Click on square (1,1)
+2021-05-22 23:59:55 INFO  Playing:155 - Click on square (0,1)
+2021-05-22 23:59:55 INFO  Playing:171 - Moving piece 5 UP
+2021-05-22 23:59:55 INFO  Playing:245 - Move: (1,1) -> (0,1)
+2021-05-22 23:59:55 INFO  Victory:36 - this color:BLUE
+2021-05-22 23:59:56 INFO  Playing:155 - Click on square (0,1)
+2021-05-22 23:59:56 INFO  Playing:155 - Click on square (1,1)
+2021-05-22 23:59:56 INFO  Playing:171 - Moving piece 5 DOWN
+2021-05-22 23:59:56 INFO  Playing:245 - Move: (0,1) -> (1,1)
+2021-05-22 23:59:56 INFO  Victory:36 - this color:BLUE
+2021-05-22 23:59:56 INFO  Playing:155 - Click on square (3,1)
+2021-05-22 23:59:57 INFO  Playing:155 - Click on square (4,1)
+2021-05-22 23:59:57 INFO  Playing:171 - Moving piece 1 DOWN
+2021-05-22 23:59:57 INFO  Playing:245 - Move: (3,1) -> (4,1)
+2021-05-22 23:59:57 INFO  Victory:36 - this color:BLUE
+2021-05-22 23:59:57 INFO  Playing:155 - Click on square (4,1)
+2021-05-22 23:59:58 INFO  Playing:155 - Click on square (4,2)
+2021-05-22 23:59:58 INFO  Playing:171 - Moving piece 1 RIGHT
+2021-05-22 23:59:58 INFO  Playing:245 - Move: (4,1) -> (4,2)
+2021-05-22 23:59:58 INFO  Victory:36 - this color:BLUE
+2021-05-22 23:59:59 INFO  Playing:155 - Click on square (3,2)
+2021-05-22 23:59:59 INFO  Playing:155 - Click on square (4,2)
+2021-05-23 00:00:00 INFO  Playing:155 - Click on square (3,2)
+2021-05-23 00:00:00 INFO  Playing:171 - Moving piece 1 UP
+2021-05-23 00:00:00 INFO  Playing:245 - Move: (4,2) -> (3,2)
+2021-05-23 00:00:00 INFO  Victory:36 - this color:BLUE
+2021-05-23 00:00:01 INFO  Playing:155 - Click on square (2,1)
+2021-05-23 00:00:01 INFO  Playing:155 - Click on square (3,1)
+2021-05-23 00:00:01 INFO  Playing:171 - Moving piece 2 DOWN
+2021-05-23 00:00:01 INFO  Playing:245 - Move: (2,1) -> (3,1)
+2021-05-23 00:00:01 INFO  Victory:36 - this color:BLUE
+2021-05-23 00:00:02 INFO  Playing:155 - Click on square (3,0)
+2021-05-23 00:00:02 INFO  Playing:155 - Click on square (2,0)
+2021-05-23 00:00:02 INFO  Playing:171 - Moving piece 7 UP
+2021-05-23 00:00:02 INFO  Playing:245 - Move: (3,0) -> (2,0)
+2021-05-23 00:00:02 INFO  Victory:36 - this color:RED
+2021-05-23 00:00:03 INFO  Playing:155 - Click on square (1,1)
+2021-05-23 00:00:03 INFO  Playing:155 - Click on square (2,1)
+2021-05-23 00:00:03 INFO  Playing:171 - Moving piece 5 DOWN
+2021-05-23 00:00:03 INFO  Playing:245 - Move: (1,1) -> (2,1)
+2021-05-23 00:00:03 INFO  Victory:36 - this color:BLUE
+2021-05-23 00:00:03 INFO  Playing:155 - Click on square (1,0)
+2021-05-23 00:00:03 INFO  Playing:155 - Click on square (1,1)
+2021-05-23 00:00:03 INFO  Playing:171 - Moving piece 0 RIGHT
+2021-05-23 00:00:03 INFO  Playing:245 - Move: (1,0) -> (1,1)
+2021-05-23 00:00:03 INFO  Victory:36 - this color:BLUE
+2021-05-23 00:00:04 INFO  Playing:155 - Click on square (2,0)
+2021-05-23 00:00:04 INFO  Playing:155 - Click on square (1,0)
+2021-05-23 00:00:04 INFO  Playing:171 - Moving piece 7 UP
+2021-05-23 00:00:04 INFO  Playing:245 - Move: (2,0) -> (1,0)
+2021-05-23 00:00:04 INFO  Victory:36 - this color:RED
+2021-05-23 00:00:04 INFO  Playing:155 - Click on square (0,0)
+2021-05-23 00:00:05 INFO  Playing:155 - Click on square (0,0)
+2021-05-23 00:00:07 INFO  Playing:155 - Click on square (2,0)
+2021-05-23 00:00:09 INFO  Playing:155 - Click on square (1,1)
+2021-05-23 00:00:11 INFO  Playing:155 - Click on square (2,0)
+2021-05-23 00:00:11 INFO  Playing:171 - Moving piece 0 DOWN_LEFT
+2021-05-23 00:00:11 INFO  Playing:245 - Move: (1,1) -> (2,0)
+2021-05-23 00:00:11 INFO  Victory:36 - this color:BLUE
+2021-05-23 00:00:11 INFO  Playing:155 - Click on square (2,0)
+2021-05-23 00:00:12 INFO  Playing:155 - Click on square (1,1)
+2021-05-23 00:00:12 INFO  Playing:171 - Moving piece 0 UP_RIGHT
+2021-05-23 00:00:12 INFO  Playing:245 - Move: (2,0) -> (1,1)
+2021-05-23 00:00:12 INFO  Victory:36 - this color:BLUE
+2021-05-23 00:00:12 INFO  Playing:155 - Click on square (1,0)
+2021-05-23 00:00:13 INFO  Playing:155 - Click on square (0,0)
+2021-05-23 00:00:13 INFO  Playing:171 - Moving piece 7 UP
+2021-05-23 00:00:13 INFO  Playing:245 - Move: (1,0) -> (0,0)
+2021-05-23 00:00:13 INFO  Victory:36 - this color:RED
+2021-05-23 00:00:13 INFO  Playing:155 - Click on square (4,0)
+2021-05-23 00:00:14 INFO  Playing:155 - Click on square (3,0)
+2021-05-23 00:00:14 INFO  Playing:171 - Moving piece 9 UP
+2021-05-23 00:00:14 INFO  Playing:245 - Move: (4,0) -> (3,0)
+2021-05-23 00:00:14 INFO  Victory:36 - this color:RED
+2021-05-23 00:00:14 INFO  Playing:155 - Click on square (3,0)
+2021-05-23 00:00:14 INFO  Playing:155 - Click on square (2,0)
+2021-05-23 00:00:14 INFO  Playing:171 - Moving piece 9 UP
+2021-05-23 00:00:14 INFO  Playing:245 - Move: (3,0) -> (2,0)
+2021-05-23 00:00:14 INFO  Victory:36 - this color:RED
+2021-05-23 00:00:15 INFO  Playing:155 - Click on square (3,0)
+2021-05-23 00:00:15 INFO  Playing:155 - Click on square (2,0)
+2021-05-23 00:00:15 INFO  Playing:155 - Click on square (1,0)
+2021-05-23 00:00:15 INFO  Playing:171 - Moving piece 9 UP
+2021-05-23 00:00:15 INFO  Playing:245 - Move: (2,0) -> (1,0)
+2021-05-23 00:00:15 INFO  Victory:36 - this color:RED
+2021-05-23 00:00:16 INFO  Playing:155 - Click on square (0,0)
+2021-05-23 00:00:16 INFO  Playing:155 - Click on square (0,1)
+2021-05-23 00:00:16 INFO  Playing:171 - Moving piece 7 RIGHT
+2021-05-23 00:00:16 INFO  Playing:245 - Move: (0,0) -> (0,1)
+2021-05-23 00:00:16 INFO  Victory:36 - this color:RED
+2021-05-23 00:00:17 INFO  Playing:155 - Click on square (1,0)
+2021-05-23 00:00:17 INFO  Playing:155 - Click on square (0,0)
+2021-05-23 00:00:17 INFO  Playing:171 - Moving piece 9 UP
+2021-05-23 00:00:17 INFO  Playing:245 - Move: (1,0) -> (0,0)
+2021-05-23 00:00:17 INFO  Victory:36 - this color:RED
+2021-05-23 00:00:18 INFO  Playing:155 - Click on square (1,2)
+2021-05-23 00:00:18 INFO  Playing:155 - Click on square (0,2)
+2021-05-23 00:00:18 INFO  Playing:171 - Moving piece 11 UP
+2021-05-23 00:00:18 INFO  Playing:245 - Move: (1,2) -> (0,2)
+2021-05-23 00:00:18 INFO  Victory:36 - this color:RED
+2021-05-23 00:00:19 INFO  Playing:155 - Click on square (0,0)
+2021-05-23 00:00:19 INFO  Playing:155 - Click on square (1,0)
+2021-05-23 00:00:19 INFO  Playing:171 - Moving piece 9 DOWN
+2021-05-23 00:00:19 INFO  Playing:245 - Move: (0,0) -> (1,0)
+2021-05-23 00:00:19 INFO  Victory:36 - this color:RED
+2021-05-23 00:00:19 INFO  Playing:155 - Click on square (0,1)
+2021-05-23 00:00:19 INFO  Playing:155 - Click on square (0,0)
+2021-05-23 00:00:20 INFO  Playing:171 - Moving piece 7 LEFT
+2021-05-23 00:00:20 INFO  Playing:245 - Move: (0,1) -> (0,0)
+2021-05-23 00:00:20 INFO  Victory:36 - this color:RED
+2021-05-23 00:00:20 INFO  Playing:155 - Click on square (0,2)
+2021-05-23 00:00:20 INFO  Playing:155 - Click on square (0,1)
+2021-05-23 00:00:20 INFO  Playing:171 - Moving piece 11 LEFT
+2021-05-23 00:00:20 INFO  Playing:245 - Move: (0,2) -> (0,1)
+2021-05-23 00:00:20 INFO  Victory:36 - this color:RED
+2021-05-23 00:00:21 INFO  Playing:155 - Click on square (2,2)
+2021-05-23 00:00:21 INFO  Playing:155 - Click on square (1,2)
+2021-05-23 00:00:21 INFO  Playing:171 - Moving piece 10 UP
+2021-05-23 00:00:21 INFO  Playing:245 - Move: (2,2) -> (1,2)
+2021-05-23 00:00:21 INFO  Victory:36 - this color:RED
+2021-05-23 00:00:21 INFO  Playing:155 - Click on square (0,2)
+2021-05-23 00:00:22 INFO  Playing:155 - Click on square (1,2)
+2021-05-23 00:00:22 INFO  Playing:155 - Click on square (0,2)
+2021-05-23 00:00:22 INFO  Playing:171 - Moving piece 10 UP
+2021-05-23 00:00:22 INFO  Playing:245 - Move: (1,2) -> (0,2)
+2021-05-23 00:00:22 INFO  Victory:36 - this color:RED
+2021-05-23 00:00:22 INFO  Playing:155 - Click on square (1,3)
+2021-05-23 00:00:23 INFO  Playing:155 - Click on square (0,3)
+2021-05-23 00:00:23 INFO  Playing:171 - Moving piece 12 UP
+2021-05-23 00:00:23 INFO  Playing:245 - Move: (1,3) -> (0,3)
+2021-05-23 00:00:23 INFO  Victory:36 - this color:RED
+2021-05-23 00:00:24 INFO  Playing:326 - Game informationGameResult(CreateTime=2021-05-22T16:00:24.270197Z, Playone=qwe, Playtwo=ewqew, Palygame=00:01:05, Winer=qwe, Settlement=64)
+2021-05-23 00:00:24 INFO  xmlUtil:30 - Game Data:<result><Winer>qwe</Winer><Settlement>64</Settlement><Palygame>00:01:05</Palygame><CreateTime>2021-05-22T16:00:24.270197Z</CreateTime><Playtwo>ewqew</Playtwo><Playone>qwe</Playone></result>
+2021-05-23 00:00:24 INFO  Playing:273 - java.lang.NullPointerException: Cannot invoke "java.net.URL.getFile()" because the return value of "java.lang.ClassLoader.getResource(String)" is null
+2021-05-23 00:00:27 DEBUG Playing:306 - settlement is pressed
+2021-05-23 00:00:27 INFO  Playing:310 - Loading high scores scene...
+2021-05-23 00:01:48 INFO  GameStart:16 - Starting application...
+2021-05-23 00:01:49 INFO  GameMain:34 - The player1 name is set to {}, loading game scene
+2021-05-23 00:01:49 INFO  GameMain:35 - The player2 name is set to {}, loading game scene
+2021-05-23 00:01:51 DEBUG Playing:306 - settlement is pressed
+2021-05-23 00:01:51 INFO  Playing:310 - Loading high scores scene...
+2021-05-23 00:01:51 DEBUG Result:47 - Loading Play record...
+2021-05-23 00:04:00 INFO  GameStart:16 - Starting application...
+2021-05-23 00:04:02 INFO  GameMain:34 - The player1 name is set to {}, loading game scene
+2021-05-23 00:04:02 INFO  GameMain:35 - The player2 name is set to {}, loading game scene
+2021-05-23 00:04:03 DEBUG Playing:306 - settlement is pressed
+2021-05-23 00:04:03 INFO  Playing:310 - Loading high scores scene...
+2021-05-23 00:04:03 DEBUG Result:47 - Loading Play record...
+2021-05-23 00:05:27 INFO  GameStart:16 - Starting application...
+2021-05-23 00:05:28 INFO  GameMain:34 - The player1 name is set to {}, loading game scene
+2021-05-23 00:05:28 INFO  GameMain:35 - The player2 name is set to {}, loading game scene
+2021-05-23 00:05:30 DEBUG Playing:306 - settlement is pressed
+2021-05-23 00:05:30 INFO  Playing:310 - Loading high scores scene...
+2021-05-23 00:05:30 DEBUG Result:47 - Loading Play record...
+2021-05-23 00:06:01 DEBUG Playing:295 - Reopen is pressed
+2021-05-23 00:06:01 INFO  Playing:296 - Resetting game...
+2021-05-23 00:06:03 INFO  Playing:155 - Click on square (3,4)
+2021-05-23 00:06:03 INFO  Playing:155 - Click on square (2,4)
+2021-05-23 00:06:03 INFO  Playing:171 - Moving piece 8 UP
+2021-05-23 00:06:03 INFO  Playing:245 - Move: (3,4) -> (2,4)
+2021-05-23 00:06:03 INFO  Victory:36 - this color:RED
+2021-05-23 00:06:04 INFO  Playing:155 - Click on square (4,4)
+2021-05-23 00:06:04 INFO  Playing:155 - Click on square (3,4)
+2021-05-23 00:06:04 INFO  Playing:171 - Moving piece 13 UP
+2021-05-23 00:06:04 INFO  Playing:245 - Move: (4,4) -> (3,4)
+2021-05-23 00:06:04 INFO  Victory:36 - this color:RED
+2021-05-23 00:06:04 INFO  Playing:155 - Click on square (1,4)
+2021-05-23 00:06:05 INFO  Playing:155 - Click on square (1,3)
+2021-05-23 00:06:05 INFO  Playing:171 - Moving piece 6 LEFT
+2021-05-23 00:06:05 INFO  Playing:245 - Move: (1,4) -> (1,3)
+2021-05-23 00:06:05 INFO  Victory:36 - this color:BLUE
+2021-05-23 00:06:06 INFO  Playing:155 - Click on square (1,3)
+2021-05-23 00:06:07 INFO  Playing:155 - Click on square (2,3)
+2021-05-23 00:06:07 INFO  Playing:171 - Moving piece 6 DOWN
+2021-05-23 00:06:07 INFO  Playing:245 - Move: (1,3) -> (2,3)
+2021-05-23 00:06:07 INFO  Victory:36 - this color:BLUE
+2021-05-23 00:06:08 INFO  Playing:155 - Click on square (0,4)
+2021-05-23 00:06:08 INFO  Playing:155 - Click on square (1,4)
+2021-05-23 00:06:08 INFO  Playing:171 - Moving piece 4 DOWN
+2021-05-23 00:06:08 INFO  Playing:245 - Move: (0,4) -> (1,4)
+2021-05-23 00:06:08 INFO  Victory:36 - this color:BLUE
+2021-05-23 00:06:08 INFO  Playing:155 - Click on square (1,3)
+2021-05-23 00:06:09 INFO  Playing:155 - Click on square (1,4)
+2021-05-23 00:06:09 INFO  Playing:155 - Click on square (1,3)
+2021-05-23 00:06:09 INFO  Playing:171 - Moving piece 4 LEFT
+2021-05-23 00:06:09 INFO  Playing:245 - Move: (1,4) -> (1,3)
+2021-05-23 00:06:09 INFO  Victory:36 - this color:BLUE
+2021-05-23 00:06:11 INFO  Playing:155 - Click on square (2,3)
+2021-05-23 00:06:11 INFO  Playing:155 - Click on square (3,3)
+2021-05-23 00:06:11 INFO  Playing:171 - Moving piece 6 DOWN
+2021-05-23 00:06:11 INFO  Playing:245 - Move: (2,3) -> (3,3)
+2021-05-23 00:06:11 INFO  Victory:36 - this color:BLUE
+2021-05-23 00:06:12 INFO  Playing:155 - Click on square (1,3)
+2021-05-23 00:06:12 INFO  Playing:155 - Click on square (2,3)
+2021-05-23 00:06:12 INFO  Playing:171 - Moving piece 4 DOWN
+2021-05-23 00:06:12 INFO  Playing:245 - Move: (1,3) -> (2,3)
+2021-05-23 00:06:12 INFO  Victory:36 - this color:BLUE
+2021-05-23 00:06:12 INFO  Playing:155 - Click on square (2,4)
+2021-05-23 00:06:13 INFO  Playing:155 - Click on square (1,4)
+2021-05-23 00:06:13 INFO  Playing:171 - Moving piece 8 UP
+2021-05-23 00:06:13 INFO  Playing:245 - Move: (2,4) -> (1,4)
+2021-05-23 00:06:13 INFO  Victory:36 - this color:RED
+2021-05-23 00:06:13 INFO  Playing:155 - Click on square (3,4)
+2021-05-23 00:06:13 INFO  Playing:155 - Click on square (2,4)
+2021-05-23 00:06:13 INFO  Playing:171 - Moving piece 13 UP
+2021-05-23 00:06:13 INFO  Playing:245 - Move: (3,4) -> (2,4)
+2021-05-23 00:06:13 INFO  Victory:36 - this color:RED
+2021-05-23 00:06:14 INFO  Playing:155 - Click on square (1,4)
+2021-05-23 00:06:14 INFO  Playing:155 - Click on square (0,4)
+2021-05-23 00:06:14 INFO  Playing:171 - Moving piece 8 UP
+2021-05-23 00:06:14 INFO  Playing:245 - Move: (1,4) -> (0,4)
+2021-05-23 00:06:14 INFO  Victory:36 - this color:RED
+2021-05-23 00:06:15 INFO  Playing:155 - Click on square (2,4)
+2021-05-23 00:06:15 INFO  Playing:155 - Click on square (1,4)
+2021-05-23 00:06:15 INFO  Playing:171 - Moving piece 13 UP
+2021-05-23 00:06:15 INFO  Playing:245 - Move: (2,4) -> (1,4)
+2021-05-23 00:06:15 INFO  Victory:36 - this color:RED
+2021-05-23 00:06:15 INFO  Playing:155 - Click on square (2,3)
+2021-05-23 00:06:15 INFO  Playing:155 - Click on square (2,4)
+2021-05-23 00:06:15 INFO  Playing:171 - Moving piece 4 RIGHT
+2021-05-23 00:06:15 INFO  Playing:245 - Move: (2,3) -> (2,4)
+2021-05-23 00:06:15 INFO  Victory:36 - this color:BLUE
+2021-05-23 00:06:16 INFO  Playing:155 - Click on square (3,3)
+2021-05-23 00:06:16 INFO  Playing:155 - Click on square (3,4)
+2021-05-23 00:06:16 INFO  Playing:171 - Moving piece 6 RIGHT
+2021-05-23 00:06:16 INFO  Playing:245 - Move: (3,3) -> (3,4)
+2021-05-23 00:06:16 INFO  Victory:36 - this color:BLUE
+2021-05-23 00:06:17 INFO  Playing:155 - Click on square (4,3)
+2021-05-23 00:06:18 INFO  Playing:155 - Click on square (3,3)
+2021-05-23 00:06:18 INFO  Playing:171 - Moving piece 12 UP
+2021-05-23 00:06:18 INFO  Playing:245 - Move: (4,3) -> (3,3)
+2021-05-23 00:06:18 INFO  Victory:36 - this color:RED
+2021-05-23 00:06:18 INFO  Playing:155 - Click on square (4,2)
+2021-05-23 00:06:18 INFO  Playing:155 - Click on square (4,3)
+2021-05-23 00:06:18 INFO  Playing:171 - Moving piece 11 RIGHT
+2021-05-23 00:06:18 INFO  Playing:245 - Move: (4,2) -> (4,3)
+2021-05-23 00:06:18 INFO  Victory:36 - this color:RED
+2021-05-23 00:06:19 INFO  Playing:155 - Click on square (3,3)
+2021-05-23 00:06:19 INFO  Playing:155 - Click on square (2,3)
+2021-05-23 00:06:19 INFO  Playing:171 - Moving piece 12 UP
+2021-05-23 00:06:19 INFO  Playing:245 - Move: (3,3) -> (2,3)
+2021-05-23 00:06:19 INFO  Victory:36 - this color:RED
+2021-05-23 00:06:20 INFO  Playing:155 - Click on square (4,3)
+2021-05-23 00:06:20 INFO  Playing:155 - Click on square (3,3)
+2021-05-23 00:06:20 INFO  Playing:171 - Moving piece 11 UP
+2021-05-23 00:06:20 INFO  Playing:245 - Move: (4,3) -> (3,3)
+2021-05-23 00:06:20 INFO  Victory:36 - this color:RED
+2021-05-23 00:06:21 INFO  Playing:155 - Click on square (0,2)
+2021-05-23 00:06:21 INFO  Playing:155 - Click on square (1,2)
+2021-05-23 00:06:21 INFO  Playing:171 - Moving piece 2 DOWN
+2021-05-23 00:06:21 INFO  Playing:245 - Move: (0,2) -> (1,2)
+2021-05-23 00:06:21 INFO  Victory:36 - this color:BLUE
+2021-05-23 00:06:21 INFO  Playing:155 - Click on square (0,3)
+2021-05-23 00:06:22 INFO  Playing:155 - Click on square (0,2)
+2021-05-23 00:06:22 INFO  Playing:171 - Moving piece 3 LEFT
+2021-05-23 00:06:22 INFO  Playing:245 - Move: (0,3) -> (0,2)
+2021-05-23 00:06:22 INFO  Victory:36 - this color:BLUE
+2021-05-23 00:06:22 INFO  Playing:155 - Click on square (1,2)
+2021-05-23 00:06:22 INFO  Playing:155 - Click on square (2,2)
+2021-05-23 00:06:22 INFO  Playing:171 - Moving piece 2 DOWN
+2021-05-23 00:06:22 INFO  Playing:245 - Move: (1,2) -> (2,2)
+2021-05-23 00:06:22 INFO  Victory:36 - this color:BLUE
+2021-05-23 00:06:23 INFO  Playing:155 - Click on square (0,2)
+2021-05-23 00:06:23 INFO  Playing:155 - Click on square (1,2)
+2021-05-23 00:06:23 INFO  Playing:171 - Moving piece 3 DOWN
+2021-05-23 00:06:23 INFO  Playing:245 - Move: (0,2) -> (1,2)
+2021-05-23 00:06:23 INFO  Victory:36 - this color:BLUE
+2021-05-23 00:06:24 INFO  Playing:155 - Click on square (2,3)
+2021-05-23 00:06:24 INFO  Playing:155 - Click on square (1,3)
+2021-05-23 00:06:24 INFO  Playing:171 - Moving piece 12 UP
+2021-05-23 00:06:24 INFO  Playing:245 - Move: (2,3) -> (1,3)
+2021-05-23 00:06:24 INFO  Victory:36 - this color:RED
+2021-05-23 00:06:24 INFO  Playing:155 - Click on square (3,3)
+2021-05-23 00:06:24 INFO  Playing:155 - Click on square (2,3)
+2021-05-23 00:06:24 INFO  Playing:171 - Moving piece 11 UP
+2021-05-23 00:06:24 INFO  Playing:245 - Move: (3,3) -> (2,3)
+2021-05-23 00:06:24 INFO  Victory:36 - this color:RED
+2021-05-23 00:06:26 INFO  Playing:155 - Click on square (0,1)
+2021-05-23 00:06:27 INFO  Playing:155 - Click on square (1,1)
+2021-05-23 00:06:27 INFO  Playing:171 - Moving piece 1 DOWN
+2021-05-23 00:06:27 INFO  Playing:245 - Move: (0,1) -> (1,1)
+2021-05-23 00:06:27 INFO  Victory:36 - this color:BLUE
+2021-05-23 00:06:27 INFO  Playing:155 - Click on square (1,1)
+2021-05-23 00:06:28 INFO  Playing:155 - Click on square (2,1)
+2021-05-23 00:06:28 INFO  Playing:171 - Moving piece 1 DOWN
+2021-05-23 00:06:28 INFO  Playing:245 - Move: (1,1) -> (2,1)
+2021-05-23 00:06:28 INFO  Victory:36 - this color:BLUE
+2021-05-23 00:06:28 INFO  Playing:155 - Click on square (2,1)
+2021-05-23 00:06:28 INFO  Playing:155 - Click on square (3,1)
+2021-05-23 00:06:28 INFO  Playing:171 - Moving piece 1 DOWN
+2021-05-23 00:06:28 INFO  Playing:245 - Move: (2,1) -> (3,1)
+2021-05-23 00:06:28 INFO  Victory:36 - this color:BLUE
+2021-05-23 00:06:29 INFO  Playing:155 - Click on square (3,1)
+2021-05-23 00:06:29 INFO  Playing:155 - Click on square (3,2)
+2021-05-23 00:06:29 INFO  Playing:171 - Moving piece 1 RIGHT
+2021-05-23 00:06:29 INFO  Playing:245 - Move: (3,1) -> (3,2)
+2021-05-23 00:06:29 INFO  Victory:36 - this color:BLUE
+2021-05-23 00:06:30 INFO  Playing:155 - Click on square (4,1)
+2021-05-23 00:06:30 INFO  Playing:155 - Click on square (3,1)
+2021-05-23 00:06:30 INFO  Playing:171 - Moving piece 10 UP
+2021-05-23 00:06:30 INFO  Playing:245 - Move: (4,1) -> (3,1)
+2021-05-23 00:06:30 INFO  Victory:36 - this color:RED
+2021-05-23 00:06:31 INFO  Playing:155 - Click on square (4,0)
+2021-05-23 00:06:31 INFO  Playing:155 - Click on square (4,1)
+2021-05-23 00:06:31 INFO  Playing:171 - Moving piece 9 RIGHT
+2021-05-23 00:06:31 INFO  Playing:245 - Move: (4,0) -> (4,1)
+2021-05-23 00:06:31 INFO  Victory:36 - this color:RED
+2021-05-23 00:06:31 INFO  Playing:155 - Click on square (3,1)
+2021-05-23 00:06:31 INFO  Playing:155 - Click on square (2,1)
+2021-05-23 00:06:31 INFO  Playing:171 - Moving piece 10 UP
+2021-05-23 00:06:31 INFO  Playing:245 - Move: (3,1) -> (2,1)
+2021-05-23 00:06:31 INFO  Victory:36 - this color:RED
+2021-05-23 00:06:32 INFO  Playing:155 - Click on square (4,1)
+2021-05-23 00:06:32 INFO  Playing:155 - Click on square (3,1)
+2021-05-23 00:06:32 INFO  Playing:171 - Moving piece 9 UP
+2021-05-23 00:06:32 INFO  Playing:245 - Move: (4,1) -> (3,1)
+2021-05-23 00:06:32 INFO  Victory:36 - this color:RED
+2021-05-23 00:06:33 INFO  Playing:155 - Click on square (2,1)
+2021-05-23 00:06:33 INFO  Playing:155 - Click on square (1,1)
+2021-05-23 00:06:33 INFO  Playing:171 - Moving piece 10 UP
+2021-05-23 00:06:33 INFO  Playing:245 - Move: (2,1) -> (1,1)
+2021-05-23 00:06:33 INFO  Victory:36 - this color:RED
+2021-05-23 00:06:34 INFO  Playing:155 - Click on square (1,1)
+2021-05-23 00:06:34 INFO  Playing:155 - Click on square (0,1)
+2021-05-23 00:06:34 INFO  Playing:171 - Moving piece 10 UP
+2021-05-23 00:06:34 INFO  Playing:245 - Move: (1,1) -> (0,1)
+2021-05-23 00:06:34 INFO  Victory:36 - this color:RED
+2021-05-23 00:06:35 INFO  Playing:155 - Click on square (3,1)
+2021-05-23 00:06:35 INFO  Playing:155 - Click on square (2,1)
+2021-05-23 00:06:35 INFO  Playing:171 - Moving piece 9 UP
+2021-05-23 00:06:35 INFO  Playing:245 - Move: (3,1) -> (2,1)
+2021-05-23 00:06:35 INFO  Victory:36 - this color:RED
+2021-05-23 00:06:35 INFO  Playing:155 - Click on square (3,0)
+2021-05-23 00:06:35 INFO  Playing:155 - Click on square (3,1)
+2021-05-23 00:06:35 INFO  Playing:171 - Moving piece 7 RIGHT
+2021-05-23 00:06:35 INFO  Playing:245 - Move: (3,0) -> (3,1)
+2021-05-23 00:06:35 INFO  Victory:36 - this color:RED
+2021-05-23 00:06:36 INFO  Playing:155 - Click on square (2,1)
+2021-05-23 00:06:36 INFO  Playing:155 - Click on square (1,1)
+2021-05-23 00:06:36 INFO  Playing:171 - Moving piece 9 UP
+2021-05-23 00:06:36 INFO  Playing:245 - Move: (2,1) -> (1,1)
+2021-05-23 00:06:36 INFO  Victory:36 - this color:RED
+2021-05-23 00:06:37 INFO  Playing:155 - Click on square (3,1)
+2021-05-23 00:06:37 INFO  Playing:155 - Click on square (2,1)
+2021-05-23 00:06:37 INFO  Playing:171 - Moving piece 7 UP
+2021-05-23 00:06:37 INFO  Playing:245 - Move: (3,1) -> (2,1)
+2021-05-23 00:06:37 INFO  Victory:36 - this color:RED
+2021-05-23 00:06:37 INFO  Playing:155 - Click on square (1,0)
+2021-05-23 00:06:38 INFO  Playing:155 - Click on square (2,0)
+2021-05-23 00:06:38 INFO  Playing:171 - Moving piece 5 DOWN
+2021-05-23 00:06:38 INFO  Playing:245 - Move: (1,0) -> (2,0)
+2021-05-23 00:06:38 INFO  Victory:36 - this color:BLUE
+2021-05-23 00:06:38 INFO  Playing:155 - Click on square (0,0)
+2021-05-23 00:06:39 INFO  Playing:155 - Click on square (1,0)
+2021-05-23 00:06:39 INFO  Playing:171 - Moving piece 0 DOWN
+2021-05-23 00:06:39 INFO  Playing:245 - Move: (0,0) -> (1,0)
+2021-05-23 00:06:39 INFO  Victory:36 - this color:BLUE
+2021-05-23 00:06:39 INFO  Playing:155 - Click on square (2,0)
+2021-05-23 00:06:39 INFO  Playing:155 - Click on square (3,0)
+2021-05-23 00:06:39 INFO  Playing:171 - Moving piece 5 DOWN
+2021-05-23 00:06:39 INFO  Playing:245 - Move: (2,0) -> (3,0)
+2021-05-23 00:06:39 INFO  Victory:36 - this color:BLUE
+2021-05-23 00:06:40 INFO  Playing:155 - Click on square (1,0)
+2021-05-23 00:06:40 INFO  Playing:155 - Click on square (2,0)
+2021-05-23 00:06:40 INFO  Playing:171 - Moving piece 0 DOWN
+2021-05-23 00:06:40 INFO  Playing:245 - Move: (1,0) -> (2,0)
+2021-05-23 00:06:40 INFO  Victory:36 - this color:BLUE
+2021-05-23 00:06:41 INFO  Playing:155 - Click on square (0,1)
+2021-05-23 00:06:41 INFO  Playing:155 - Click on square (0,0)
+2021-05-23 00:06:41 INFO  Playing:171 - Moving piece 10 LEFT
+2021-05-23 00:06:41 INFO  Playing:245 - Move: (0,1) -> (0,0)
+2021-05-23 00:06:41 INFO  Victory:36 - this color:RED
+2021-05-23 00:06:42 INFO  Playing:155 - Click on square (1,1)
+2021-05-23 00:06:42 INFO  Playing:155 - Click on square (0,1)
+2021-05-23 00:06:42 INFO  Playing:171 - Moving piece 9 UP
+2021-05-23 00:06:42 INFO  Playing:245 - Move: (1,1) -> (0,1)
+2021-05-23 00:06:42 INFO  Victory:36 - this color:RED
+2021-05-23 00:06:42 INFO  Playing:155 - Click on square (0,0)
+2021-05-23 00:06:42 INFO  Playing:155 - Click on square (1,0)
+2021-05-23 00:06:42 INFO  Playing:171 - Moving piece 10 DOWN
+2021-05-23 00:06:42 INFO  Playing:245 - Move: (0,0) -> (1,0)
+2021-05-23 00:06:42 INFO  Victory:36 - this color:RED
+2021-05-23 00:06:43 INFO  Playing:155 - Click on square (2,1)
+2021-05-23 00:06:43 INFO  Playing:155 - Click on square (1,1)
+2021-05-23 00:06:43 INFO  Playing:171 - Moving piece 7 UP
+2021-05-23 00:06:43 INFO  Playing:245 - Move: (2,1) -> (1,1)
+2021-05-23 00:06:43 INFO  Victory:36 - this color:RED
+2021-05-23 00:06:43 INFO  Playing:155 - Click on square (0,1)
+2021-05-23 00:06:44 INFO  Playing:155 - Click on square (0,0)
+2021-05-23 00:06:44 INFO  Playing:171 - Moving piece 9 LEFT
+2021-05-23 00:06:44 INFO  Playing:245 - Move: (0,1) -> (0,0)
+2021-05-23 00:06:44 INFO  Victory:36 - this color:RED
+2021-05-23 00:06:44 INFO  Playing:155 - Click on square (1,1)
+2021-05-23 00:06:44 INFO  Playing:155 - Click on square (0,1)
+2021-05-23 00:06:44 INFO  Playing:171 - Moving piece 7 UP
+2021-05-23 00:06:44 INFO  Playing:245 - Move: (1,1) -> (0,1)
+2021-05-23 00:06:44 INFO  Victory:36 - this color:RED
+2021-05-23 00:06:45 INFO  Playing:155 - Click on square (1,3)
+2021-05-23 00:06:45 INFO  Playing:155 - Click on square (0,3)
+2021-05-23 00:06:45 INFO  Playing:171 - Moving piece 12 UP
+2021-05-23 00:06:45 INFO  Playing:245 - Move: (1,3) -> (0,3)
+2021-05-23 00:06:45 INFO  Victory:36 - this color:RED
+2021-05-23 00:06:46 INFO  Playing:155 - Click on square (0,3)
+2021-05-23 00:06:46 INFO  Playing:155 - Click on square (0,2)
+2021-05-23 00:06:46 INFO  Playing:171 - Moving piece 12 LEFT
+2021-05-23 00:06:46 INFO  Playing:245 - Move: (0,3) -> (0,2)
+2021-05-23 00:06:46 INFO  Victory:36 - this color:RED
+2021-05-23 00:06:47 INFO  Playing:155 - Click on square (2,3)
+2021-05-23 00:06:47 INFO  Playing:155 - Click on square (1,3)
+2021-05-23 00:06:47 INFO  Playing:171 - Moving piece 11 UP
+2021-05-23 00:06:47 INFO  Playing:245 - Move: (2,3) -> (1,3)
+2021-05-23 00:06:47 INFO  Victory:36 - this color:RED
+2021-05-23 00:06:48 INFO  Playing:155 - Click on square (1,3)
+2021-05-23 00:06:48 INFO  Playing:155 - Click on square (0,3)
+2021-05-23 00:06:48 INFO  Playing:171 - Moving piece 11 UP
+2021-05-23 00:06:48 INFO  Playing:245 - Move: (1,3) -> (0,3)
+2021-05-23 00:06:48 INFO  Victory:36 - this color:RED
+2021-05-23 00:06:49 INFO  Playing:326 - Game informationGameResult(CreateTime=2021-05-22T16:06:49.758040200Z, Playone=, Playtwo=, Palygame=00:00:47, Winer=, Settlement=52)
+2021-05-23 00:06:49 INFO  xmlUtil:30 - Game Data:<result><CreateTime>2021-05-22T16:06:49.758040200Z</CreateTime><Playone></Playone><Playtwo></Playtwo><Settlement>52</Settlement><Palygame>00:00:47</Palygame><Winer></Winer></result>
+2021-05-23 00:06:49 INFO  Playing:273 - java.lang.NullPointerException: Cannot invoke "java.net.URL.getFile()" because the return value of "java.lang.ClassLoader.getResource(String)" is null
+2021-05-23 00:07:09 DEBUG Playing:306 - settlement is pressed
+2021-05-23 00:07:09 INFO  Playing:310 - Loading high scores scene...
+2021-05-23 00:07:09 DEBUG Result:47 - Loading Play record...
+2021-05-23 00:07:24 INFO  GameStart:16 - Starting application...
+2021-05-23 00:08:37 INFO  GameStart:16 - Starting application...
+2021-05-23 00:08:40 INFO  GameMain:34 - The player1 name is set to {qwe}, loading game scene
+2021-05-23 00:08:40 INFO  GameMain:35 - The player2 name is set to {eqw}, loading game scene
+2021-05-23 00:08:42 INFO  Playing:155 - Click on square (3,4)
+2021-05-23 00:08:42 INFO  Playing:155 - Click on square (3,3)
+2021-05-23 00:08:42 INFO  Playing:171 - Moving piece 8 LEFT
+2021-05-23 00:08:42 INFO  Playing:245 - Move: (3,4) -> (3,3)
+2021-05-23 00:08:42 INFO  Victory:36 - this color:RED
+2021-05-23 00:08:43 INFO  Playing:155 - Click on square (3,3)
+2021-05-23 00:08:43 INFO  Playing:155 - Click on square (2,3)
+2021-05-23 00:08:43 INFO  Playing:171 - Moving piece 8 UP
+2021-05-23 00:08:43 INFO  Playing:245 - Move: (3,3) -> (2,3)
+2021-05-23 00:08:43 INFO  Victory:36 - this color:RED
+2021-05-23 00:08:44 INFO  Playing:155 - Click on square (4,3)
+2021-05-23 00:08:44 INFO  Playing:155 - Click on square (3,3)
+2021-05-23 00:08:44 INFO  Playing:171 - Moving piece 12 UP
+2021-05-23 00:08:44 INFO  Playing:245 - Move: (4,3) -> (3,3)
+2021-05-23 00:08:44 INFO  Victory:36 - this color:RED
+2021-05-23 00:08:44 INFO  Playing:155 - Click on square (4,4)
+2021-05-23 00:08:44 INFO  Playing:155 - Click on square (4,3)
+2021-05-23 00:08:44 INFO  Playing:171 - Moving piece 13 LEFT
+2021-05-23 00:08:44 INFO  Playing:245 - Move: (4,4) -> (4,3)
+2021-05-23 00:08:44 INFO  Victory:36 - this color:RED
+2021-05-23 00:08:46 INFO  Playing:155 - Click on square (4,2)
+2021-05-23 00:08:46 INFO  Playing:155 - Click on square (3,2)
+2021-05-23 00:08:46 INFO  Playing:171 - Moving piece 11 UP
+2021-05-23 00:08:46 INFO  Playing:245 - Move: (4,2) -> (3,2)
+2021-05-23 00:08:46 INFO  Victory:36 - this color:RED
+2021-05-23 00:08:46 INFO  Playing:155 - Click on square (4,1)
+2021-05-23 00:08:46 INFO  Playing:155 - Click on square (4,2)
+2021-05-23 00:08:46 INFO  Playing:171 - Moving piece 10 RIGHT
+2021-05-23 00:08:46 INFO  Playing:245 - Move: (4,1) -> (4,2)
+2021-05-23 00:08:46 INFO  Victory:36 - this color:RED
+2021-05-23 00:08:47 INFO  Playing:155 - Click on square (4,0)
+2021-05-23 00:08:47 INFO  Playing:155 - Click on square (4,1)
+2021-05-23 00:08:47 INFO  Playing:171 - Moving piece 9 RIGHT
+2021-05-23 00:08:47 INFO  Playing:245 - Move: (4,0) -> (4,1)
+2021-05-23 00:08:47 INFO  Victory:36 - this color:RED
+2021-05-23 00:08:47 INFO  Playing:155 - Click on square (3,0)
+2021-05-23 00:08:48 INFO  Playing:155 - Click on square (4,0)
+2021-05-23 00:08:48 INFO  Playing:171 - Moving piece 7 DOWN
+2021-05-23 00:08:48 INFO  Playing:245 - Move: (3,0) -> (4,0)
+2021-05-23 00:08:48 INFO  Victory:36 - this color:RED
+2021-05-23 00:08:48 INFO  Playing:155 - Click on square (4,1)
+2021-05-23 00:08:48 INFO  Playing:155 - Click on square (3,1)
+2021-05-23 00:08:48 INFO  Playing:171 - Moving piece 9 UP
+2021-05-23 00:08:48 INFO  Playing:245 - Move: (4,1) -> (3,1)
+2021-05-23 00:08:48 INFO  Victory:36 - this color:RED
+2021-05-23 00:08:49 INFO  Playing:155 - Click on square (4,0)
+2021-05-23 00:08:49 INFO  Playing:155 - Click on square (4,1)
+2021-05-23 00:08:49 INFO  Playing:171 - Moving piece 7 RIGHT
+2021-05-23 00:08:49 INFO  Playing:245 - Move: (4,0) -> (4,1)
+2021-05-23 00:08:49 INFO  Victory:36 - this color:RED
+2021-05-23 00:08:50 INFO  Playing:155 - Click on square (1,4)
+2021-05-23 00:08:50 INFO  Playing:155 - Click on square (2,4)
+2021-05-23 00:08:50 INFO  Playing:171 - Moving piece 6 DOWN
+2021-05-23 00:08:50 INFO  Playing:245 - Move: (1,4) -> (2,4)
+2021-05-23 00:08:50 INFO  Victory:36 - this color:BLUE
+2021-05-23 00:08:51 INFO  Playing:155 - Click on square (0,4)
+2021-05-23 00:08:51 INFO  Playing:155 - Click on square (1,4)
+2021-05-23 00:08:51 INFO  Playing:171 - Moving piece 4 DOWN
+2021-05-23 00:08:51 INFO  Playing:245 - Move: (0,4) -> (1,4)
+2021-05-23 00:08:51 INFO  Victory:36 - this color:BLUE
+2021-05-23 00:08:52 INFO  Playing:155 - Click on square (1,0)
+2021-05-23 00:08:52 INFO  Playing:155 - Click on square (2,0)
+2021-05-23 00:08:52 INFO  Playing:171 - Moving piece 5 DOWN
+2021-05-23 00:08:52 INFO  Playing:245 - Move: (1,0) -> (2,0)
+2021-05-23 00:08:52 INFO  Victory:36 - this color:BLUE
+2021-05-23 00:08:52 INFO  Playing:155 - Click on square (0,0)
+2021-05-23 00:08:52 INFO  Playing:155 - Click on square (1,0)
+2021-05-23 00:08:52 INFO  Playing:171 - Moving piece 0 DOWN
+2021-05-23 00:08:52 INFO  Playing:245 - Move: (0,0) -> (1,0)
+2021-05-23 00:08:52 INFO  Victory:36 - this color:BLUE
+2021-05-23 00:08:53 INFO  Playing:155 - Click on square (2,0)
+2021-05-23 00:08:53 INFO  Playing:155 - Click on square (3,0)
+2021-05-23 00:08:53 INFO  Playing:171 - Moving piece 5 DOWN
+2021-05-23 00:08:53 INFO  Playing:245 - Move: (2,0) -> (3,0)
+2021-05-23 00:08:53 INFO  Victory:36 - this color:BLUE
+2021-05-23 00:08:54 INFO  Playing:155 - Click on square (1,0)
+2021-05-23 00:08:54 INFO  Playing:155 - Click on square (2,0)
+2021-05-23 00:08:54 INFO  Playing:171 - Moving piece 0 DOWN
+2021-05-23 00:08:54 INFO  Playing:245 - Move: (1,0) -> (2,0)
+2021-05-23 00:08:54 INFO  Victory:36 - this color:BLUE
+2021-05-23 00:08:55 INFO  Playing:155 - Click on square (0,1)
+2021-05-23 00:08:55 INFO  Playing:155 - Click on square (0,0)
+2021-05-23 00:08:55 INFO  Playing:171 - Moving piece 1 LEFT
+2021-05-23 00:08:55 INFO  Playing:245 - Move: (0,1) -> (0,0)
+2021-05-23 00:08:55 INFO  Victory:36 - this color:BLUE
+2021-05-23 00:08:56 INFO  Playing:155 - Click on square (0,0)
+2021-05-23 00:08:56 INFO  Playing:155 - Click on square (1,0)
+2021-05-23 00:08:56 INFO  Playing:171 - Moving piece 1 DOWN
+2021-05-23 00:08:56 INFO  Playing:245 - Move: (0,0) -> (1,0)
+2021-05-23 00:08:56 INFO  Victory:36 - this color:BLUE
+2021-05-23 00:08:56 INFO  Playing:155 - Click on square (0,2)
+2021-05-23 00:08:57 INFO  Playing:155 - Click on square (1,2)
+2021-05-23 00:08:57 INFO  Playing:171 - Moving piece 2 DOWN
+2021-05-23 00:08:57 INFO  Playing:245 - Move: (0,2) -> (1,2)
+2021-05-23 00:08:57 INFO  Victory:36 - this color:BLUE
+2021-05-23 00:08:57 INFO  Playing:155 - Click on square (0,3)
+2021-05-23 00:08:58 INFO  Playing:155 - Click on square (1,3)
+2021-05-23 00:08:58 INFO  Playing:171 - Moving piece 3 DOWN
+2021-05-23 00:08:58 INFO  Playing:245 - Move: (0,3) -> (1,3)
+2021-05-23 00:08:58 INFO  Victory:36 - this color:BLUE
+2021-05-23 00:08:58 INFO  Playing:155 - Click on square (1,2)
+2021-05-23 00:08:59 INFO  Playing:155 - Click on square (2,2)
+2021-05-23 00:08:59 INFO  Playing:171 - Moving piece 2 DOWN
+2021-05-23 00:08:59 INFO  Playing:245 - Move: (1,2) -> (2,2)
+2021-05-23 00:08:59 INFO  Victory:36 - this color:BLUE
+2021-05-23 00:08:59 INFO  Playing:155 - Click on square (1,3)
+2021-05-23 00:08:59 INFO  Playing:155 - Click on square (1,2)
+2021-05-23 00:08:59 INFO  Playing:171 - Moving piece 3 LEFT
+2021-05-23 00:08:59 INFO  Playing:245 - Move: (1,3) -> (1,2)
+2021-05-23 00:08:59 INFO  Victory:36 - this color:BLUE
+2021-05-23 00:09:00 INFO  Playing:155 - Click on square (2,3)
+2021-05-23 00:09:01 INFO  Playing:155 - Click on square (1,3)
+2021-05-23 00:09:01 INFO  Playing:171 - Moving piece 8 UP
+2021-05-23 00:09:01 INFO  Playing:245 - Move: (2,3) -> (1,3)
+2021-05-23 00:09:01 INFO  Victory:36 - this color:RED
+2021-05-23 00:09:01 INFO  Playing:155 - Click on square (3,3)
+2021-05-23 00:09:01 INFO  Playing:155 - Click on square (2,3)
+2021-05-23 00:09:01 INFO  Playing:171 - Moving piece 12 UP
+2021-05-23 00:09:01 INFO  Playing:245 - Move: (3,3) -> (2,3)
+2021-05-23 00:09:01 INFO  Victory:36 - this color:RED
+2021-05-23 00:09:02 INFO  Playing:155 - Click on square (3,3)
+2021-05-23 00:09:03 INFO  Playing:155 - Click on square (4,3)
+2021-05-23 00:09:03 INFO  Playing:155 - Click on square (3,3)
+2021-05-23 00:09:03 INFO  Playing:171 - Moving piece 13 UP
+2021-05-23 00:09:03 INFO  Playing:245 - Move: (4,3) -> (3,3)
+2021-05-23 00:09:03 INFO  Victory:36 - this color:RED
+2021-05-23 00:09:04 INFO  Playing:155 - Click on square (1,3)
+2021-05-23 00:09:04 INFO  Playing:155 - Click on square (0,3)
+2021-05-23 00:09:04 INFO  Playing:171 - Moving piece 8 UP
+2021-05-23 00:09:04 INFO  Playing:245 - Move: (1,3) -> (0,3)
+2021-05-23 00:09:04 INFO  Victory:36 - this color:RED
+2021-05-23 00:09:05 INFO  Playing:155 - Click on square (2,3)
+2021-05-23 00:09:05 INFO  Playing:155 - Click on square (1,3)
+2021-05-23 00:09:05 INFO  Playing:171 - Moving piece 12 UP
+2021-05-23 00:09:05 INFO  Playing:245 - Move: (2,3) -> (1,3)
+2021-05-23 00:09:05 INFO  Victory:36 - this color:RED
+2021-05-23 00:09:05 INFO  Playing:155 - Click on square (2,4)
+2021-05-23 00:09:06 INFO  Playing:155 - Click on square (3,4)
+2021-05-23 00:09:06 INFO  Playing:171 - Moving piece 6 DOWN
+2021-05-23 00:09:06 INFO  Playing:245 - Move: (2,4) -> (3,4)
+2021-05-23 00:09:06 INFO  Victory:36 - this color:BLUE
+2021-05-23 00:09:06 INFO  Playing:155 - Click on square (1,4)
+2021-05-23 00:09:06 INFO  Playing:155 - Click on square (2,4)
+2021-05-23 00:09:06 INFO  Playing:171 - Moving piece 4 DOWN
+2021-05-23 00:09:06 INFO  Playing:245 - Move: (1,4) -> (2,4)
+2021-05-23 00:09:06 INFO  Victory:36 - this color:BLUE
+2021-05-23 00:09:07 INFO  Playing:155 - Click on square (3,3)
+2021-05-23 00:09:07 INFO  Playing:155 - Click on square (2,3)
+2021-05-23 00:09:07 INFO  Playing:171 - Moving piece 13 UP
+2021-05-23 00:09:07 INFO  Playing:245 - Move: (3,3) -> (2,3)
+2021-05-23 00:09:07 INFO  Victory:36 - this color:RED
+2021-05-23 00:09:08 INFO  Playing:155 - Click on square (1,3)
+2021-05-23 00:09:08 INFO  Playing:155 - Click on square (1,4)
+2021-05-23 00:09:08 INFO  Playing:171 - Moving piece 12 RIGHT
+2021-05-23 00:09:08 INFO  Playing:245 - Move: (1,3) -> (1,4)
+2021-05-23 00:09:08 INFO  Victory:36 - this color:RED
+2021-05-23 00:09:08 INFO  Playing:155 - Click on square (0,3)
+2021-05-23 00:09:09 INFO  Playing:155 - Click on square (0,4)
+2021-05-23 00:09:09 INFO  Playing:171 - Moving piece 8 RIGHT
+2021-05-23 00:09:09 INFO  Playing:245 - Move: (0,3) -> (0,4)
+2021-05-23 00:09:09 INFO  Victory:36 - this color:RED
+2021-05-23 00:09:09 INFO  Playing:155 - Click on square (2,3)
+2021-05-23 00:09:10 INFO  Playing:155 - Click on square (1,3)
+2021-05-23 00:09:10 INFO  Playing:171 - Moving piece 13 UP
+2021-05-23 00:09:10 INFO  Playing:245 - Move: (2,3) -> (1,3)
+2021-05-23 00:09:10 INFO  Victory:36 - this color:RED
+2021-05-23 00:09:10 INFO  Playing:155 - Click on square (2,2)
+2021-05-23 00:09:11 INFO  Playing:155 - Click on square (2,3)
+2021-05-23 00:09:11 INFO  Playing:171 - Moving piece 2 RIGHT
+2021-05-23 00:09:11 INFO  Playing:245 - Move: (2,2) -> (2,3)
+2021-05-23 00:09:11 INFO  Victory:36 - this color:BLUE
+2021-05-23 00:09:12 INFO  Playing:155 - Click on square (3,2)
+2021-05-23 00:09:13 INFO  Playing:155 - Click on square (3,3)
+2021-05-23 00:09:13 INFO  Playing:171 - Moving piece 11 RIGHT
+2021-05-23 00:09:13 INFO  Playing:245 - Move: (3,2) -> (3,3)
+2021-05-23 00:09:13 INFO  Victory:36 - this color:RED
+2021-05-23 00:09:14 INFO  Playing:155 - Click on square (1,2)
+2021-05-23 00:09:14 INFO  Playing:155 - Click on square (2,2)
+2021-05-23 00:09:14 INFO  Playing:171 - Moving piece 3 DOWN
+2021-05-23 00:09:14 INFO  Playing:245 - Move: (1,2) -> (2,2)
+2021-05-23 00:09:14 INFO  Victory:36 - this color:BLUE
+2021-05-23 00:09:14 INFO  Playing:155 - Click on square (3,3)
+2021-05-23 00:09:15 INFO  Playing:155 - Click on square (3,2)
+2021-05-23 00:09:15 INFO  Playing:171 - Moving piece 11 LEFT
+2021-05-23 00:09:15 INFO  Playing:245 - Move: (3,3) -> (3,2)
+2021-05-23 00:09:15 INFO  Victory:36 - this color:RED
+2021-05-23 00:09:15 INFO  Playing:155 - Click on square (2,3)
+2021-05-23 00:09:15 INFO  Playing:155 - Click on square (3,3)
+2021-05-23 00:09:15 INFO  Playing:171 - Moving piece 2 DOWN
+2021-05-23 00:09:15 INFO  Playing:245 - Move: (2,3) -> (3,3)
+2021-05-23 00:09:15 INFO  Victory:36 - this color:BLUE
+2021-05-23 00:09:16 INFO  Playing:155 - Click on square (2,2)
+2021-05-23 00:09:16 INFO  Playing:155 - Click on square (2,3)
+2021-05-23 00:09:16 INFO  Playing:171 - Moving piece 3 RIGHT
+2021-05-23 00:09:16 INFO  Playing:245 - Move: (2,2) -> (2,3)
+2021-05-23 00:09:16 INFO  Victory:36 - this color:BLUE
+2021-05-23 00:09:16 INFO  Playing:155 - Click on square (3,2)
+2021-05-23 00:09:17 INFO  Playing:155 - Click on square (2,2)
+2021-05-23 00:09:17 INFO  Playing:171 - Moving piece 11 UP
+2021-05-23 00:09:17 INFO  Playing:245 - Move: (3,2) -> (2,2)
+2021-05-23 00:09:17 INFO  Victory:36 - this color:RED
+2021-05-23 00:09:17 INFO  Playing:155 - Click on square (2,2)
+2021-05-23 00:09:17 INFO  Playing:155 - Click on square (1,2)
+2021-05-23 00:09:17 INFO  Playing:171 - Moving piece 11 UP
+2021-05-23 00:09:17 INFO  Playing:245 - Move: (2,2) -> (1,2)
+2021-05-23 00:09:17 INFO  Victory:36 - this color:RED
+2021-05-23 00:09:18 INFO  Playing:155 - Click on square (3,1)
+2021-05-23 00:09:19 INFO  Playing:155 - Click on square (2,1)
+2021-05-23 00:09:19 INFO  Playing:171 - Moving piece 9 UP
+2021-05-23 00:09:19 INFO  Playing:245 - Move: (3,1) -> (2,1)
+2021-05-23 00:09:19 INFO  Victory:36 - this color:RED
+2021-05-23 00:09:19 INFO  Playing:155 - Click on square (4,1)
+2021-05-23 00:09:19 INFO  Playing:155 - Click on square (3,1)
+2021-05-23 00:09:19 INFO  Playing:171 - Moving piece 7 UP
+2021-05-23 00:09:19 INFO  Playing:245 - Move: (4,1) -> (3,1)
+2021-05-23 00:09:19 INFO  Victory:36 - this color:RED
+2021-05-23 00:09:20 INFO  Playing:155 - Click on square (4,2)
+2021-05-23 00:09:20 INFO  Playing:155 - Click on square (3,2)
+2021-05-23 00:09:20 INFO  Playing:171 - Moving piece 10 UP
+2021-05-23 00:09:20 INFO  Playing:245 - Move: (4,2) -> (3,2)
+2021-05-23 00:09:20 INFO  Victory:36 - this color:RED
+2021-05-23 00:09:20 INFO  Playing:155 - Click on square (2,2)
+2021-05-23 00:09:21 INFO  Playing:155 - Click on square (3,2)
+2021-05-23 00:09:21 INFO  Playing:155 - Click on square (2,2)
+2021-05-23 00:09:21 INFO  Playing:171 - Moving piece 10 UP
+2021-05-23 00:09:21 INFO  Playing:245 - Move: (3,2) -> (2,2)
+2021-05-23 00:09:21 INFO  Victory:36 - this color:RED
+2021-05-23 00:09:22 INFO  Playing:155 - Click on square (2,1)
+2021-05-23 00:09:22 INFO  Playing:155 - Click on square (1,1)
+2021-05-23 00:09:22 INFO  Playing:171 - Moving piece 9 UP
+2021-05-23 00:09:22 INFO  Playing:245 - Move: (2,1) -> (1,1)
+2021-05-23 00:09:22 INFO  Victory:36 - this color:RED
+2021-05-23 00:09:22 INFO  Playing:155 - Click on square (3,1)
+2021-05-23 00:09:22 INFO  Playing:155 - Click on square (2,1)
+2021-05-23 00:09:22 INFO  Playing:171 - Moving piece 7 UP
+2021-05-23 00:09:22 INFO  Playing:245 - Move: (3,1) -> (2,1)
+2021-05-23 00:09:22 INFO  Victory:36 - this color:RED
+2021-05-23 00:09:23 INFO  Playing:155 - Click on square (2,0)
+2021-05-23 00:09:23 INFO  Playing:155 - Click on square (3,1)
+2021-05-23 00:09:23 INFO  Playing:171 - Moving piece 0 DOWN_RIGHT
+2021-05-23 00:09:23 INFO  Playing:245 - Move: (2,0) -> (3,1)
+2021-05-23 00:09:23 INFO  Victory:36 - this color:BLUE
+2021-05-23 00:09:24 INFO  Playing:155 - Click on square (1,0)
+2021-05-23 00:09:24 INFO  Playing:155 - Click on square (2,0)
+2021-05-23 00:09:24 INFO  Playing:171 - Moving piece 1 DOWN
+2021-05-23 00:09:24 INFO  Playing:245 - Move: (1,0) -> (2,0)
+2021-05-23 00:09:24 INFO  Victory:36 - this color:BLUE
+2021-05-23 00:09:24 INFO  Playing:155 - Click on square (1,1)
+2021-05-23 00:09:25 INFO  Playing:155 - Click on square (0,0)
+2021-05-23 00:09:25 INFO  Playing:171 - Moving piece 9 UP_LEFT
+2021-05-23 00:09:25 INFO  Playing:245 - Move: (1,1) -> (0,0)
+2021-05-23 00:09:25 INFO  Victory:36 - this color:RED
+2021-05-23 00:09:25 INFO  Playing:155 - Click on square (2,1)
+2021-05-23 00:09:26 INFO  Playing:155 - Click on square (1,1)
+2021-05-23 00:09:26 INFO  Playing:171 - Moving piece 7 UP
+2021-05-23 00:09:26 INFO  Playing:245 - Move: (2,1) -> (1,1)
+2021-05-23 00:09:26 INFO  Victory:36 - this color:RED
+2021-05-23 00:09:26 INFO  Playing:155 - Click on square (1,1)
+2021-05-23 00:09:26 INFO  Playing:155 - Click on square (1,0)
+2021-05-23 00:09:26 INFO  Playing:171 - Moving piece 7 LEFT
+2021-05-23 00:09:26 INFO  Playing:245 - Move: (1,1) -> (1,0)
+2021-05-23 00:09:26 INFO  Victory:36 - this color:RED
+2021-05-23 00:09:27 INFO  Playing:155 - Click on square (1,2)
+2021-05-23 00:09:27 INFO  Playing:155 - Click on square (0,1)
+2021-05-23 00:09:27 INFO  Playing:171 - Moving piece 11 UP_LEFT
+2021-05-23 00:09:27 INFO  Playing:245 - Move: (1,2) -> (0,1)
+2021-05-23 00:09:27 INFO  Victory:36 - this color:RED
+2021-05-23 00:09:28 INFO  Playing:155 - Click on square (2,2)
+2021-05-23 00:09:28 INFO  Playing:155 - Click on square (1,2)
+2021-05-23 00:09:28 INFO  Playing:171 - Moving piece 10 UP
+2021-05-23 00:09:28 INFO  Playing:245 - Move: (2,2) -> (1,2)
+2021-05-23 00:09:28 INFO  Victory:36 - this color:RED
+2021-05-23 00:09:29 INFO  Playing:155 - Click on square (1,2)
+2021-05-23 00:09:29 INFO  Playing:155 - Click on square (0,2)
+2021-05-23 00:09:29 INFO  Playing:171 - Moving piece 10 UP
+2021-05-23 00:09:29 INFO  Playing:245 - Move: (1,2) -> (0,2)
+2021-05-23 00:09:29 INFO  Victory:36 - this color:RED
+2021-05-23 00:09:29 INFO  Playing:155 - Click on square (1,3)
+2021-05-23 00:09:30 INFO  Playing:155 - Click on square (0,3)
+2021-05-23 00:09:30 INFO  Playing:171 - Moving piece 13 UP
+2021-05-23 00:09:30 INFO  Playing:245 - Move: (1,3) -> (0,3)
+2021-05-23 00:09:30 INFO  Victory:36 - this color:RED
+2021-05-23 00:09:31 INFO  Playing:326 - Game informationGameResult(CreateTime=2021-05-22T16:09:31.593858Z, Playone=qwe, Playtwo=eqw, Palygame=00:00:51, Winer=qwe, Settlement=56)
+2021-05-23 00:09:31 INFO  xmlUtil:30 - Game Data:<result><Playone>qwe</Playone><Winer>qwe</Winer><CreateTime>2021-05-22T16:09:31.593858Z</CreateTime><Palygame>00:00:51</Palygame><Settlement>56</Settlement><Playtwo>eqw</Playtwo></result>
+2021-05-23 00:09:31 INFO  Playing:273 - java.lang.NullPointerException: Cannot invoke "java.net.URL.getFile()" because the return value of "java.lang.ClassLoader.getResource(String)" is null
+2021-05-23 00:09:58 INFO  GameStart:16 - Starting application...
+2021-05-23 00:10:01 INFO  GameMain:34 - The player1 name is set to {qwe}, loading game scene
+2021-05-23 00:10:01 INFO  GameMain:35 - The player2 name is set to {ewq}, loading game scene
+2021-05-23 00:10:03 INFO  Playing:155 - Click on square (1,4)
+2021-05-23 00:10:03 INFO  Playing:155 - Click on square (2,4)
+2021-05-23 00:10:03 INFO  Playing:171 - Moving piece 6 DOWN
+2021-05-23 00:10:03 INFO  Playing:245 - Move: (1,4) -> (2,4)
+2021-05-23 00:10:03 INFO  Victory:36 - this color:BLUE
+2021-05-23 00:10:03 INFO  Playing:155 - Click on square (3,4)
+2021-05-23 00:10:04 INFO  Playing:155 - Click on square (2,3)
+2021-05-23 00:10:04 INFO  Playing:171 - Moving piece 8 UP_LEFT
+2021-05-23 00:10:04 INFO  Playing:245 - Move: (3,4) -> (2,3)
+2021-05-23 00:10:04 INFO  Victory:36 - this color:RED
+2021-05-23 00:10:04 INFO  Playing:155 - Click on square (2,4)
+2021-05-23 00:10:05 INFO  Playing:155 - Click on square (3,4)
+2021-05-23 00:10:05 INFO  Playing:171 - Moving piece 6 DOWN
+2021-05-23 00:10:05 INFO  Playing:245 - Move: (2,4) -> (3,4)
+2021-05-23 00:10:05 INFO  Victory:36 - this color:BLUE
+2021-05-23 00:10:05 INFO  Playing:155 - Click on square (4,4)
+2021-05-23 00:10:05 INFO  Playing:155 - Click on square (3,3)
+2021-05-23 00:10:05 INFO  Playing:171 - Moving piece 13 UP_LEFT
+2021-05-23 00:10:05 INFO  Playing:245 - Move: (4,4) -> (3,3)
+2021-05-23 00:10:05 INFO  Victory:36 - this color:RED
+2021-05-23 00:10:06 INFO  Playing:155 - Click on square (4,3)
+2021-05-23 00:10:06 INFO  Playing:155 - Click on square (3,2)
+2021-05-23 00:10:06 INFO  Playing:171 - Moving piece 12 UP_LEFT
+2021-05-23 00:10:06 INFO  Playing:245 - Move: (4,3) -> (3,2)
+2021-05-23 00:10:06 INFO  Victory:36 - this color:RED
+2021-05-23 00:10:07 INFO  Playing:155 - Click on square (4,1)
+2021-05-23 00:10:07 INFO  Playing:155 - Click on square (3,1)
+2021-05-23 00:10:07 INFO  Playing:171 - Moving piece 10 UP
+2021-05-23 00:10:07 INFO  Playing:245 - Move: (4,1) -> (3,1)
+2021-05-23 00:10:07 INFO  Victory:36 - this color:RED
+2021-05-23 00:10:08 INFO  Playing:155 - Click on square (3,0)
+2021-05-23 00:10:08 INFO  Playing:155 - Click on square (2,1)
+2021-05-23 00:10:08 INFO  Playing:171 - Moving piece 7 UP_RIGHT
+2021-05-23 00:10:08 INFO  Playing:245 - Move: (3,0) -> (2,1)
+2021-05-23 00:10:08 INFO  Victory:36 - this color:RED
+2021-05-23 00:10:10 INFO  Playing:155 - Click on square (3,1)
+2021-05-23 00:10:10 INFO  Playing:155 - Click on square (2,2)
+2021-05-23 00:10:10 INFO  Playing:171 - Moving piece 10 UP_RIGHT
+2021-05-23 00:10:10 INFO  Playing:245 - Move: (3,1) -> (2,2)
+2021-05-23 00:10:10 INFO  Victory:36 - this color:RED
+2021-05-23 00:10:11 INFO  Playing:155 - Click on square (4,0)
+2021-05-23 00:10:11 INFO  Playing:155 - Click on square (3,1)
+2021-05-23 00:10:11 INFO  Playing:171 - Moving piece 9 UP_RIGHT
+2021-05-23 00:10:11 INFO  Playing:245 - Move: (4,0) -> (3,1)
+2021-05-23 00:10:11 INFO  Victory:36 - this color:RED
+2021-05-23 00:10:12 INFO  Playing:155 - Click on square (2,1)
+2021-05-23 00:10:12 INFO  Playing:155 - Click on square (1,2)
+2021-05-23 00:10:12 INFO  Playing:171 - Moving piece 7 UP_RIGHT
+2021-05-23 00:10:12 INFO  Playing:245 - Move: (2,1) -> (1,2)
+2021-05-23 00:10:12 INFO  Victory:36 - this color:RED
+2021-05-23 00:10:13 INFO  Playing:155 - Click on square (3,1)
+2021-05-23 00:10:14 INFO  Playing:155 - Click on square (2,1)
+2021-05-23 00:10:14 INFO  Playing:171 - Moving piece 9 UP
+2021-05-23 00:10:14 INFO  Playing:245 - Move: (3,1) -> (2,1)
+2021-05-23 00:10:14 INFO  Victory:36 - this color:RED
+2021-05-23 00:10:14 INFO  Playing:155 - Click on square (1,0)
+2021-05-23 00:10:15 INFO  Playing:155 - Click on square (2,0)
+2021-05-23 00:10:15 INFO  Playing:171 - Moving piece 5 DOWN
+2021-05-23 00:10:15 INFO  Playing:245 - Move: (1,0) -> (2,0)
+2021-05-23 00:10:15 INFO  Victory:36 - this color:BLUE
+2021-05-23 00:10:15 INFO  Playing:155 - Click on square (0,0)
+2021-05-23 00:10:15 INFO  Playing:155 - Click on square (1,0)
+2021-05-23 00:10:15 INFO  Playing:171 - Moving piece 0 DOWN
+2021-05-23 00:10:15 INFO  Playing:245 - Move: (0,0) -> (1,0)
+2021-05-23 00:10:15 INFO  Victory:36 - this color:BLUE
+2021-05-23 00:10:16 INFO  Playing:155 - Click on square (2,0)
+2021-05-23 00:10:16 INFO  Playing:155 - Click on square (3,0)
+2021-05-23 00:10:16 INFO  Playing:171 - Moving piece 5 DOWN
+2021-05-23 00:10:16 INFO  Playing:245 - Move: (2,0) -> (3,0)
+2021-05-23 00:10:16 INFO  Victory:36 - this color:BLUE
+2021-05-23 00:10:16 INFO  Playing:155 - Click on square (1,0)
+2021-05-23 00:10:17 INFO  Playing:155 - Click on square (2,0)
+2021-05-23 00:10:17 INFO  Playing:171 - Moving piece 0 DOWN
+2021-05-23 00:10:17 INFO  Playing:245 - Move: (1,0) -> (2,0)
+2021-05-23 00:10:17 INFO  Victory:36 - this color:BLUE
+2021-05-23 00:10:17 INFO  Playing:155 - Click on square (2,1)
+2021-05-23 00:10:17 INFO  Playing:155 - Click on square (1,0)
+2021-05-23 00:10:17 INFO  Playing:171 - Moving piece 9 UP_LEFT
+2021-05-23 00:10:17 INFO  Playing:245 - Move: (2,1) -> (1,0)
+2021-05-23 00:10:17 INFO  Victory:36 - this color:RED
+2021-05-23 00:10:18 INFO  Playing:155 - Click on square (1,2)
+2021-05-23 00:10:18 INFO  Playing:155 - Click on square (1,1)
+2021-05-23 00:10:18 INFO  Playing:171 - Moving piece 7 LEFT
+2021-05-23 00:10:18 INFO  Playing:245 - Move: (1,2) -> (1,1)
+2021-05-23 00:10:18 INFO  Victory:36 - this color:RED
+2021-05-23 00:10:19 INFO  Playing:155 - Click on square (1,1)
+2021-05-23 00:10:19 INFO  Playing:155 - Click on square (0,0)
+2021-05-23 00:10:19 INFO  Playing:171 - Moving piece 7 UP_LEFT
+2021-05-23 00:10:19 INFO  Playing:245 - Move: (1,1) -> (0,0)
+2021-05-23 00:10:19 INFO  Victory:36 - this color:RED
+2021-05-23 00:10:19 INFO  Playing:155 - Click on square (0,1)
+2021-05-23 00:10:20 INFO  Playing:155 - Click on square (1,1)
+2021-05-23 00:10:20 INFO  Playing:171 - Moving piece 1 DOWN
+2021-05-23 00:10:20 INFO  Playing:245 - Move: (0,1) -> (1,1)
+2021-05-23 00:10:20 INFO  Victory:36 - this color:BLUE
+2021-05-23 00:10:20 INFO  Playing:155 - Click on square (2,2)
+2021-05-23 00:10:20 INFO  Playing:155 - Click on square (1,2)
+2021-05-23 00:10:20 INFO  Playing:171 - Moving piece 10 UP
+2021-05-23 00:10:20 INFO  Playing:245 - Move: (2,2) -> (1,2)
+2021-05-23 00:10:20 INFO  Victory:36 - this color:RED
+2021-05-23 00:10:21 INFO  Playing:155 - Click on square (1,2)
+2021-05-23 00:10:21 INFO  Playing:155 - Click on square (0,1)
+2021-05-23 00:10:21 INFO  Playing:171 - Moving piece 10 UP_LEFT
+2021-05-23 00:10:21 INFO  Playing:245 - Move: (1,2) -> (0,1)
+2021-05-23 00:10:21 INFO  Victory:36 - this color:RED
+2021-05-23 00:10:21 INFO  Playing:155 - Click on square (0,2)
+2021-05-23 00:10:22 INFO  Playing:155 - Click on square (1,2)
+2021-05-23 00:10:22 INFO  Playing:171 - Moving piece 2 DOWN
+2021-05-23 00:10:22 INFO  Playing:245 - Move: (0,2) -> (1,2)
+2021-05-23 00:10:22 INFO  Victory:36 - this color:BLUE
+2021-05-23 00:10:22 INFO  Playing:155 - Click on square (2,3)
+2021-05-23 00:10:22 INFO  Playing:155 - Click on square (1,3)
+2021-05-23 00:10:22 INFO  Playing:171 - Moving piece 8 UP
+2021-05-23 00:10:22 INFO  Playing:245 - Move: (2,3) -> (1,3)
+2021-05-23 00:10:22 INFO  Victory:36 - this color:RED
+2021-05-23 00:10:23 INFO  Playing:155 - Click on square (1,3)
+2021-05-23 00:10:23 INFO  Playing:155 - Click on square (0,2)
+2021-05-23 00:10:23 INFO  Playing:171 - Moving piece 8 UP_LEFT
+2021-05-23 00:10:23 INFO  Playing:245 - Move: (1,3) -> (0,2)
+2021-05-23 00:10:23 INFO  Victory:36 - this color:RED
+2021-05-23 00:10:24 INFO  Playing:155 - Click on square (3,3)
+2021-05-23 00:10:24 INFO  Playing:155 - Click on square (2,3)
+2021-05-23 00:10:24 INFO  Playing:171 - Moving piece 13 UP
+2021-05-23 00:10:24 INFO  Playing:245 - Move: (3,3) -> (2,3)
+2021-05-23 00:10:24 INFO  Victory:36 - this color:RED
+2021-05-23 00:10:24 INFO  Playing:155 - Click on square (0,3)
+2021-05-23 00:10:25 INFO  Playing:155 - Click on square (1,3)
+2021-05-23 00:10:25 INFO  Playing:171 - Moving piece 3 DOWN
+2021-05-23 00:10:25 INFO  Playing:245 - Move: (0,3) -> (1,3)
+2021-05-23 00:10:25 INFO  Victory:36 - this color:BLUE
+2021-05-23 00:10:25 INFO  Playing:155 - Click on square (1,3)
+2021-05-23 00:10:25 INFO  Playing:155 - Click on square (2,4)
+2021-05-23 00:10:25 INFO  Playing:171 - Moving piece 3 DOWN_RIGHT
+2021-05-23 00:10:25 INFO  Playing:245 - Move: (1,3) -> (2,4)
+2021-05-23 00:10:25 INFO  Victory:36 - this color:BLUE
+2021-05-23 00:10:26 INFO  Playing:155 - Click on square (2,3)
+2021-05-23 00:10:26 INFO  Playing:155 - Click on square (1,3)
+2021-05-23 00:10:26 INFO  Playing:171 - Moving piece 13 UP
+2021-05-23 00:10:26 INFO  Playing:245 - Move: (2,3) -> (1,3)
+2021-05-23 00:10:26 INFO  Victory:36 - this color:RED
+2021-05-23 00:10:27 INFO  Playing:155 - Click on square (1,3)
+2021-05-23 00:10:27 INFO  Playing:155 - Click on square (0,3)
+2021-05-23 00:10:27 INFO  Playing:171 - Moving piece 13 UP
+2021-05-23 00:10:27 INFO  Playing:245 - Move: (1,3) -> (0,3)
+2021-05-23 00:10:27 INFO  Victory:36 - this color:RED
+2021-05-23 00:10:27 INFO  Playing:155 - Click on square (3,2)
+2021-05-23 00:10:27 INFO  Playing:155 - Click on square (2,3)
+2021-05-23 00:10:27 INFO  Playing:171 - Moving piece 12 UP_RIGHT
+2021-05-23 00:10:27 INFO  Playing:245 - Move: (3,2) -> (2,3)
+2021-05-23 00:10:27 INFO  Victory:36 - this color:RED
+2021-05-23 00:10:28 INFO  Playing:155 - Click on square (4,2)
+2021-05-23 00:10:28 INFO  Playing:155 - Click on square (3,2)
+2021-05-23 00:10:28 INFO  Playing:171 - Moving piece 11 UP
+2021-05-23 00:10:28 INFO  Playing:245 - Move: (4,2) -> (3,2)
+2021-05-23 00:10:28 INFO  Victory:36 - this color:RED
+2021-05-23 00:10:29 INFO  Playing:155 - Click on square (2,3)
+2021-05-23 00:10:29 INFO  Playing:155 - Click on square (1,3)
+2021-05-23 00:10:29 INFO  Playing:171 - Moving piece 12 UP
+2021-05-23 00:10:29 INFO  Playing:245 - Move: (2,3) -> (1,3)
+2021-05-23 00:10:29 INFO  Victory:36 - this color:RED
+2021-05-23 00:10:30 INFO  Playing:155 - Click on square (3,2)
+2021-05-23 00:10:30 INFO  Playing:155 - Click on square (2,3)
+2021-05-23 00:10:30 INFO  Playing:171 - Moving piece 11 UP_RIGHT
+2021-05-23 00:10:30 INFO  Playing:245 - Move: (3,2) -> (2,3)
+2021-05-23 00:10:30 INFO  Victory:36 - this color:RED
+2021-05-23 00:10:31 INFO  Playing:155 - Click on square (0,4)
+2021-05-23 00:10:31 INFO  Playing:155 - Click on square (1,4)
+2021-05-23 00:10:31 INFO  Playing:171 - Moving piece 4 DOWN
+2021-05-23 00:10:31 INFO  Playing:245 - Move: (0,4) -> (1,4)
+2021-05-23 00:10:31 INFO  Victory:36 - this color:BLUE
+2021-05-23 00:10:33 INFO  Playing:155 - Click on square (3,4)
+2021-05-23 00:10:33 INFO  Playing:155 - Click on square (4,4)
+2021-05-23 00:10:33 INFO  Playing:171 - Moving piece 6 DOWN
+2021-05-23 00:10:33 INFO  Playing:245 - Move: (3,4) -> (4,4)
+2021-05-23 00:10:33 INFO  Victory:36 - this color:BLUE
+2021-05-23 00:10:33 INFO  Playing:155 - Click on square (3,4)
+2021-05-23 00:10:34 INFO  Playing:155 - Click on square (2,4)
+2021-05-23 00:10:34 INFO  Playing:155 - Click on square (3,4)
+2021-05-23 00:10:34 INFO  Playing:171 - Moving piece 3 DOWN
+2021-05-23 00:10:34 INFO  Playing:245 - Move: (2,4) -> (3,4)
+2021-05-23 00:10:34 INFO  Victory:36 - this color:BLUE
+2021-05-23 00:10:35 INFO  Playing:155 - Click on square (1,4)
+2021-05-23 00:10:35 INFO  Playing:155 - Click on square (2,4)
+2021-05-23 00:10:35 INFO  Playing:171 - Moving piece 4 DOWN
+2021-05-23 00:10:35 INFO  Playing:245 - Move: (1,4) -> (2,4)
+2021-05-23 00:10:35 INFO  Victory:36 - this color:BLUE
+2021-05-23 00:10:36 INFO  Playing:155 - Click on square (1,3)
+2021-05-23 00:10:36 INFO  Playing:155 - Click on square (0,4)
+2021-05-23 00:10:36 INFO  Playing:171 - Moving piece 12 UP_RIGHT
+2021-05-23 00:10:36 INFO  Playing:245 - Move: (1,3) -> (0,4)
+2021-05-23 00:10:36 INFO  Victory:36 - this color:RED
+2021-05-23 00:10:37 INFO  Playing:155 - Click on square (2,3)
+2021-05-23 00:10:37 INFO  Playing:155 - Click on square (1,4)
+2021-05-23 00:10:37 INFO  Playing:171 - Moving piece 11 UP_RIGHT
+2021-05-23 00:10:37 INFO  Playing:245 - Move: (2,3) -> (1,4)
+2021-05-23 00:10:37 INFO  Victory:36 - this color:RED
+2021-05-23 00:10:38 INFO  Playing:326 - Game informationGameResult(CreateTime=2021-05-22T16:10:38.561127900Z, Playone=qwe, Playtwo=ewq, Palygame=00:00:36, Winer=qwe, Settlement=39)
+2021-05-23 00:10:38 INFO  xmlUtil:30 - Game Data:<result><Playtwo>ewq</Playtwo><Settlement>39</Settlement><Winer>qwe</Winer><CreateTime>2021-05-22T16:10:38.561127900Z</CreateTime><Playone>qwe</Playone><Palygame>00:00:36</Palygame></result>
+2021-05-23 00:10:38 DEBUG xmlUtil:35 - FilePath:/F:/外包/javafx_boardgame/target/classes/xml/GameResult.xml
+2021-05-23 00:10:41 DEBUG Playing:306 - settlement is pressed
+2021-05-23 00:10:41 INFO  Playing:310 - Loading high scores scene...
+2021-05-23 00:10:41 DEBUG Result:47 - Loading Play record...
+2021-05-23 00:12:02 DEBUG Playing:295 - Reopen is pressed
+2021-05-23 00:12:02 INFO  Playing:296 - Resetting game...
+2021-05-23 00:18:02 INFO  GameStart:16 - Starting application...
+2021-05-23 00:29:49 INFO  GameStart:16 - Starting application...
+2021-05-23 00:29:53 INFO  GameMain:34 - The player1 name is set to {rewq}, loading game scene
+2021-05-23 00:29:53 INFO  GameMain:35 - The player2 name is set to {wqer}, loading game scene
+2021-05-23 00:29:55 INFO  Playing:155 - Click on square (1,0)
+2021-05-23 00:29:55 INFO  Playing:155 - Click on square (1,1)
+2021-05-23 00:29:55 INFO  Playing:171 - Moving piece 5 RIGHT
+2021-05-23 00:29:55 INFO  Playing:245 - Move: (1,0) -> (1,1)
+2021-05-23 00:29:55 INFO  Victory:36 - this color:BLUE
+2021-05-23 00:29:56 INFO  Playing:155 - Click on square (1,1)
+2021-05-23 00:29:56 INFO  Playing:155 - Click on square (2,1)
+2021-05-23 00:29:56 INFO  Playing:171 - Moving piece 5 DOWN
+2021-05-23 00:29:56 INFO  Playing:245 - Move: (1,1) -> (2,1)
+2021-05-23 00:29:56 INFO  Victory:36 - this color:BLUE
+2021-05-23 00:29:57 INFO  Playing:155 - Click on square (2,1)
+2021-05-23 00:29:57 INFO  Playing:155 - Click on square (3,2)
+2021-05-23 00:29:57 INFO  Playing:171 - Moving piece 5 DOWN_RIGHT
+2021-05-23 00:29:57 INFO  Playing:245 - Move: (2,1) -> (3,2)
+2021-05-23 00:29:57 INFO  Victory:36 - this color:BLUE
+2021-05-23 00:29:58 INFO  Playing:155 - Click on square (0,2)
+2021-05-23 00:29:58 INFO  Playing:155 - Click on square (1,2)
+2021-05-23 00:29:58 INFO  Playing:171 - Moving piece 2 DOWN
+2021-05-23 00:29:58 INFO  Playing:245 - Move: (0,2) -> (1,2)
+2021-05-23 00:29:58 INFO  Victory:36 - this color:BLUE
+2021-05-23 00:29:59 INFO  Playing:155 - Click on square (1,2)
+2021-05-23 00:29:59 INFO  Playing:155 - Click on square (2,2)
+2021-05-23 00:29:59 INFO  Playing:171 - Moving piece 2 DOWN
+2021-05-23 00:29:59 INFO  Playing:245 - Move: (1,2) -> (2,2)
+2021-05-23 00:29:59 INFO  Victory:36 - this color:BLUE
+2021-05-23 00:30:00 INFO  Playing:155 - Click on square (0,3)
+2021-05-23 00:30:00 INFO  Playing:155 - Click on square (1,3)
+2021-05-23 00:30:00 INFO  Playing:171 - Moving piece 3 DOWN
+2021-05-23 00:30:00 INFO  Playing:245 - Move: (0,3) -> (1,3)
+2021-05-23 00:30:00 INFO  Victory:36 - this color:BLUE
+2021-05-23 00:30:01 INFO  Playing:155 - Click on square (1,3)
+2021-05-23 00:30:01 INFO  Playing:155 - Click on square (2,3)
+2021-05-23 00:30:01 INFO  Playing:171 - Moving piece 3 DOWN
+2021-05-23 00:30:01 INFO  Playing:245 - Move: (1,3) -> (2,3)
+2021-05-23 00:30:01 INFO  Victory:36 - this color:BLUE
+2021-05-23 00:30:01 INFO  Playing:155 - Click on square (1,4)
+2021-05-23 00:30:02 INFO  Playing:155 - Click on square (1,3)
+2021-05-23 00:30:02 INFO  Playing:171 - Moving piece 6 LEFT
+2021-05-23 00:30:02 INFO  Playing:245 - Move: (1,4) -> (1,3)
+2021-05-23 00:30:02 INFO  Victory:36 - this color:BLUE
+2021-05-23 00:30:03 INFO  Playing:155 - Click on square (0,4)
+2021-05-23 00:30:03 INFO  Playing:155 - Click on square (0,3)
+2021-05-23 00:30:03 INFO  Playing:171 - Moving piece 4 LEFT
+2021-05-23 00:30:03 INFO  Playing:245 - Move: (0,4) -> (0,3)
+2021-05-23 00:30:03 INFO  Victory:36 - this color:BLUE
+2021-05-23 00:30:04 INFO  Playing:155 - Click on square (0,3)
+2021-05-23 00:30:04 INFO  Playing:155 - Click on square (1,2)
+2021-05-23 00:30:04 INFO  Playing:171 - Moving piece 4 DOWN_LEFT
+2021-05-23 00:30:04 INFO  Playing:245 - Move: (0,3) -> (1,2)
+2021-05-23 00:30:04 INFO  Victory:36 - this color:BLUE
+2021-05-23 00:30:04 INFO  Playing:155 - Click on square (0,1)
+2021-05-23 00:30:05 INFO  Playing:155 - Click on square (1,1)
+2021-05-23 00:30:05 INFO  Playing:171 - Moving piece 1 DOWN
+2021-05-23 00:30:05 INFO  Playing:245 - Move: (0,1) -> (1,1)
+2021-05-23 00:30:05 INFO  Victory:36 - this color:BLUE
+2021-05-23 00:30:05 INFO  Playing:155 - Click on square (0,0)
+2021-05-23 00:30:05 INFO  Playing:155 - Click on square (1,0)
+2021-05-23 00:30:05 INFO  Playing:171 - Moving piece 0 DOWN
+2021-05-23 00:30:05 INFO  Playing:245 - Move: (0,0) -> (1,0)
+2021-05-23 00:30:05 INFO  Victory:36 - this color:BLUE
+2021-05-23 00:30:06 INFO  Playing:155 - Click on square (1,0)
+2021-05-23 00:30:06 INFO  Playing:155 - Click on square (2,1)
+2021-05-23 00:30:06 INFO  Playing:171 - Moving piece 0 DOWN_RIGHT
+2021-05-23 00:30:06 INFO  Playing:245 - Move: (1,0) -> (2,1)
+2021-05-23 00:30:06 INFO  Victory:36 - this color:BLUE
+2021-05-23 00:30:06 INFO  Playing:155 - Click on square (3,0)
+2021-05-23 00:30:07 INFO  Playing:155 - Click on square (2,0)
+2021-05-23 00:30:07 INFO  Playing:171 - Moving piece 7 UP
+2021-05-23 00:30:07 INFO  Playing:245 - Move: (3,0) -> (2,0)
+2021-05-23 00:30:07 INFO  Victory:36 - this color:RED
+2021-05-23 00:30:08 INFO  Playing:155 - Click on square (4,0)
+2021-05-23 00:30:08 INFO  Playing:155 - Click on square (3,0)
+2021-05-23 00:30:08 INFO  Playing:171 - Moving piece 9 UP
+2021-05-23 00:30:08 INFO  Playing:245 - Move: (4,0) -> (3,0)
+2021-05-23 00:30:08 INFO  Victory:36 - this color:RED
+2021-05-23 00:30:08 INFO  Playing:155 - Click on square (2,0)
+2021-05-23 00:30:08 INFO  Playing:155 - Click on square (1,0)
+2021-05-23 00:30:08 INFO  Playing:171 - Moving piece 7 UP
+2021-05-23 00:30:08 INFO  Playing:245 - Move: (2,0) -> (1,0)
+2021-05-23 00:30:08 INFO  Victory:36 - this color:RED
+2021-05-23 00:30:09 INFO  Playing:155 - Click on square (3,0)
+2021-05-23 00:30:09 INFO  Playing:155 - Click on square (2,0)
+2021-05-23 00:30:09 INFO  Playing:171 - Moving piece 9 UP
+2021-05-23 00:30:09 INFO  Playing:245 - Move: (3,0) -> (2,0)
+2021-05-23 00:30:09 INFO  Victory:36 - this color:RED
+2021-05-23 00:30:10 INFO  Playing:155 - Click on square (1,0)
+2021-05-23 00:30:10 INFO  Playing:155 - Click on square (0,0)
+2021-05-23 00:30:10 INFO  Playing:171 - Moving piece 7 UP
+2021-05-23 00:30:10 INFO  Playing:245 - Move: (1,0) -> (0,0)
+2021-05-23 00:30:10 INFO  Victory:36 - this color:RED
+2021-05-23 00:30:10 INFO  Playing:155 - Click on square (2,0)
+2021-05-23 00:30:10 INFO  Playing:155 - Click on square (1,0)
+2021-05-23 00:30:10 INFO  Playing:171 - Moving piece 9 UP
+2021-05-23 00:30:10 INFO  Playing:245 - Move: (2,0) -> (1,0)
+2021-05-23 00:30:10 INFO  Victory:36 - this color:RED
+2021-05-23 00:30:11 INFO  Playing:155 - Click on square (0,0)
+2021-05-23 00:30:11 INFO  Playing:155 - Click on square (0,1)
+2021-05-23 00:30:11 INFO  Playing:171 - Moving piece 7 RIGHT
+2021-05-23 00:30:11 INFO  Playing:245 - Move: (0,0) -> (0,1)
+2021-05-23 00:30:11 INFO  Victory:36 - this color:RED
+2021-05-23 00:30:13 INFO  Playing:155 - Click on square (1,0)
+2021-05-23 00:30:13 INFO  Playing:155 - Click on square (0,0)
+2021-05-23 00:30:13 INFO  Playing:171 - Moving piece 9 UP
+2021-05-23 00:30:13 INFO  Playing:245 - Move: (1,0) -> (0,0)
+2021-05-23 00:30:13 INFO  Victory:36 - this color:RED
+2021-05-23 00:30:14 INFO  Playing:155 - Click on square (4,1)
+2021-05-23 00:30:14 INFO  Playing:155 - Click on square (3,1)
+2021-05-23 00:30:14 INFO  Playing:171 - Moving piece 10 UP
+2021-05-23 00:30:14 INFO  Playing:245 - Move: (4,1) -> (3,1)
+2021-05-23 00:30:14 INFO  Victory:36 - this color:RED
+2021-05-23 00:30:15 INFO  Playing:155 - Click on square (3,1)
+2021-05-23 00:30:15 INFO  Playing:155 - Click on square (2,0)
+2021-05-23 00:30:15 INFO  Playing:171 - Moving piece 10 UP_LEFT
+2021-05-23 00:30:15 INFO  Playing:245 - Move: (3,1) -> (2,0)
+2021-05-23 00:30:15 INFO  Victory:36 - this color:RED
+2021-05-23 00:30:16 INFO  Playing:155 - Click on square (2,0)
+2021-05-23 00:30:16 INFO  Playing:155 - Click on square (1,0)
+2021-05-23 00:30:16 INFO  Playing:171 - Moving piece 10 UP
+2021-05-23 00:30:16 INFO  Playing:245 - Move: (2,0) -> (1,0)
+2021-05-23 00:30:16 INFO  Victory:36 - this color:RED
+2021-05-23 00:30:17 INFO  Playing:155 - Click on square (3,4)
+2021-05-23 00:30:17 INFO  Playing:155 - Click on square (2,4)
+2021-05-23 00:30:17 INFO  Playing:171 - Moving piece 8 UP
+2021-05-23 00:30:17 INFO  Playing:245 - Move: (3,4) -> (2,4)
+2021-05-23 00:30:17 INFO  Victory:36 - this color:RED
+2021-05-23 00:30:17 INFO  Playing:155 - Click on square (4,4)
+2021-05-23 00:30:18 INFO  Playing:155 - Click on square (3,4)
+2021-05-23 00:30:18 INFO  Playing:171 - Moving piece 13 UP
+2021-05-23 00:30:18 INFO  Playing:245 - Move: (4,4) -> (3,4)
+2021-05-23 00:30:18 INFO  Victory:36 - this color:RED
+2021-05-23 00:30:18 INFO  Playing:155 - Click on square (2,2)
+2021-05-23 00:30:19 INFO  Playing:155 - Click on square (3,1)
+2021-05-23 00:30:19 INFO  Playing:171 - Moving piece 2 DOWN_LEFT
+2021-05-23 00:30:19 INFO  Playing:245 - Move: (2,2) -> (3,1)
+2021-05-23 00:30:19 INFO  Victory:36 - this color:BLUE
+2021-05-23 00:30:20 INFO  Playing:155 - Click on square (4,3)
+2021-05-23 00:30:20 INFO  Playing:155 - Click on square (3,3)
+2021-05-23 00:30:20 INFO  Playing:171 - Moving piece 12 UP
+2021-05-23 00:30:20 INFO  Playing:245 - Move: (4,3) -> (3,3)
+2021-05-23 00:30:20 INFO  Victory:36 - this color:RED
+2021-05-23 00:30:21 INFO  Playing:155 - Click on square (2,1)
+2021-05-23 00:30:21 INFO  Playing:155 - Click on square (2,0)
+2021-05-23 00:30:21 INFO  Playing:171 - Moving piece 0 LEFT
+2021-05-23 00:30:21 INFO  Playing:245 - Move: (2,1) -> (2,0)
+2021-05-23 00:30:21 INFO  Victory:36 - this color:BLUE
+2021-05-23 00:30:22 INFO  Playing:155 - Click on square (2,2)
+2021-05-23 00:30:23 INFO  Playing:155 - Click on square (3,3)
+2021-05-23 00:30:23 INFO  Playing:155 - Click on square (2,2)
+2021-05-23 00:30:23 INFO  Playing:171 - Moving piece 12 UP_LEFT
+2021-05-23 00:30:23 INFO  Playing:245 - Move: (3,3) -> (2,2)
+2021-05-23 00:30:23 INFO  Victory:36 - this color:RED
+2021-05-23 00:30:24 INFO  Playing:155 - Click on square (2,3)
+2021-05-23 00:30:24 INFO  Playing:155 - Click on square (3,3)
+2021-05-23 00:30:24 INFO  Playing:171 - Moving piece 3 DOWN
+2021-05-23 00:30:24 INFO  Playing:245 - Move: (2,3) -> (3,3)
+2021-05-23 00:30:24 INFO  Victory:36 - this color:BLUE
+2021-05-23 00:30:25 INFO  Playing:155 - Click on square (1,3)
+2021-05-23 00:30:25 INFO  Playing:155 - Click on square (2,3)
+2021-05-23 00:30:25 INFO  Playing:171 - Moving piece 6 DOWN
+2021-05-23 00:30:25 INFO  Playing:245 - Move: (1,3) -> (2,3)
+2021-05-23 00:30:25 INFO  Victory:36 - this color:BLUE
+2021-05-23 00:30:25 INFO  Playing:155 - Click on square (2,2)
+2021-05-23 00:30:26 INFO  Playing:155 - Click on square (1,3)
+2021-05-23 00:30:26 INFO  Playing:171 - Moving piece 12 UP_RIGHT
+2021-05-23 00:30:26 INFO  Playing:245 - Move: (2,2) -> (1,3)
+2021-05-23 00:30:26 INFO  Victory:36 - this color:RED
+2021-05-23 00:30:26 INFO  Playing:155 - Click on square (4,2)
+2021-05-23 00:30:27 INFO  Playing:155 - Click on square (4,1)
+2021-05-23 00:30:27 INFO  Playing:171 - Moving piece 11 LEFT
+2021-05-23 00:30:27 INFO  Playing:245 - Move: (4,2) -> (4,1)
+2021-05-23 00:30:27 INFO  Victory:36 - this color:RED
+2021-05-23 00:30:27 INFO  Playing:155 - Click on square (4,1)
+2021-05-23 00:30:28 INFO  Playing:155 - Click on square (3,0)
+2021-05-23 00:30:28 INFO  Playing:171 - Moving piece 11 UP_LEFT
+2021-05-23 00:30:28 INFO  Playing:245 - Move: (4,1) -> (3,0)
+2021-05-23 00:30:28 INFO  Victory:36 - this color:RED
+2021-05-23 00:30:28 INFO  Playing:155 - Click on square (3,0)
+2021-05-23 00:30:28 INFO  Playing:155 - Click on square (2,1)
+2021-05-23 00:30:28 INFO  Playing:171 - Moving piece 11 UP_RIGHT
+2021-05-23 00:30:28 INFO  Playing:245 - Move: (3,0) -> (2,1)
+2021-05-23 00:30:28 INFO  Victory:36 - this color:RED
+2021-05-23 00:30:29 INFO  Playing:155 - Click on square (2,1)
+2021-05-23 00:30:29 INFO  Playing:155 - Click on square (2,2)
+2021-05-23 00:30:29 INFO  Playing:171 - Moving piece 11 RIGHT
+2021-05-23 00:30:29 INFO  Playing:245 - Move: (2,1) -> (2,2)
+2021-05-23 00:30:29 INFO  Victory:36 - this color:RED
+2021-05-23 00:30:29 INFO  Playing:155 - Click on square (1,3)
+2021-05-23 00:30:30 INFO  Playing:155 - Click on square (0,2)
+2021-05-23 00:30:30 INFO  Playing:171 - Moving piece 12 UP_LEFT
+2021-05-23 00:30:30 INFO  Playing:245 - Move: (1,3) -> (0,2)
+2021-05-23 00:30:30 INFO  Victory:36 - this color:RED
+2021-05-23 00:30:30 INFO  Playing:155 - Click on square (2,2)
+2021-05-23 00:30:31 INFO  Playing:155 - Click on square (1,3)
+2021-05-23 00:30:31 INFO  Playing:171 - Moving piece 11 UP_RIGHT
+2021-05-23 00:30:31 INFO  Playing:245 - Move: (2,2) -> (1,3)
+2021-05-23 00:30:31 INFO  Victory:36 - this color:RED
+2021-05-23 00:30:31 INFO  Playing:155 - Click on square (1,3)
+2021-05-23 00:30:31 INFO  Playing:155 - Click on square (0,4)
+2021-05-23 00:30:31 INFO  Playing:171 - Moving piece 11 UP_RIGHT
+2021-05-23 00:30:31 INFO  Playing:245 - Move: (1,3) -> (0,4)
+2021-05-23 00:30:31 INFO  Victory:36 - this color:RED
+2021-05-23 00:30:32 INFO  Playing:155 - Click on square (1,4)
+2021-05-23 00:30:32 INFO  Playing:155 - Click on square (2,4)
+2021-05-23 00:30:33 INFO  Playing:155 - Click on square (1,4)
+2021-05-23 00:30:33 INFO  Playing:171 - Moving piece 8 UP
+2021-05-23 00:30:33 INFO  Playing:245 - Move: (2,4) -> (1,4)
+2021-05-23 00:30:33 INFO  Victory:36 - this color:RED
+2021-05-23 00:30:33 INFO  Playing:155 - Click on square (1,4)
+2021-05-23 00:30:33 INFO  Playing:155 - Click on square (0,3)
+2021-05-23 00:30:33 INFO  Playing:171 - Moving piece 8 UP_LEFT
+2021-05-23 00:30:33 INFO  Playing:245 - Move: (1,4) -> (0,3)
+2021-05-23 00:30:33 INFO  Victory:36 - this color:RED
+2021-05-23 00:30:34 INFO  Playing:155 - Click on square (3,4)
+2021-05-23 00:30:34 INFO  Playing:155 - Click on square (2,4)
+2021-05-23 00:30:34 INFO  Playing:171 - Moving piece 13 UP
+2021-05-23 00:30:34 INFO  Playing:245 - Move: (3,4) -> (2,4)
+2021-05-23 00:30:34 INFO  Victory:36 - this color:RED
+2021-05-23 00:30:35 INFO  Playing:155 - Click on square (2,4)
+2021-05-23 00:30:35 INFO  Playing:155 - Click on square (1,4)
+2021-05-23 00:30:35 INFO  Playing:171 - Moving piece 13 UP
+2021-05-23 00:30:35 INFO  Playing:245 - Move: (2,4) -> (1,4)
+2021-05-23 00:30:35 INFO  Victory:36 - this color:RED
+2021-05-23 00:30:36 INFO  Playing:326 - Game informationGameResult(CreateTime=2021-05-22T16:30:36.490474Z, Playone=rewq, Playtwo=wqer, Palygame=00:00:42, Winer=rewq, Settlement=44)
+2021-05-23 00:30:36 INFO  xmlUtil:30 - Game Data:<Result><CreateTime>2021-05-22T16:30:36.490474Z</CreateTime><Playone>rewq</Playone><Playtwo>wqer</Playtwo><Palygame>00:00:42</Palygame><Winer>rewq</Winer><Settlement>44</Settlement></Result>
+2021-05-23 00:30:36 DEBUG xmlUtil:35 - FilePath:/F:/外包/javafx_boardgame/target/classes/xml/GameResult.xml
+2021-05-23 00:30:43 DEBUG Playing:306 - settlement is pressed
+2021-05-23 00:30:43 INFO  Playing:310 - Loading high scores scene...
+2021-05-23 00:30:43 DEBUG Result:47 - Loading Play record...
+2021-05-23 00:32:11 INFO  GameStart:16 - Starting application...
+2021-05-23 00:32:40 INFO  GameStart:16 - Starting application...
+2021-05-23 00:32:41 INFO  GameMain:34 - The player1 name is set to {}, loading game scene
+2021-05-23 00:32:41 INFO  GameMain:35 - The player2 name is set to {}, loading game scene
+2021-05-23 00:32:42 DEBUG Playing:306 - settlement is pressed
+2021-05-23 00:32:42 INFO  Playing:310 - Loading high scores scene...
+2021-05-23 00:32:43 DEBUG Result:47 - Loading Play record...
+2021-05-23 00:33:32 INFO  GameStart:16 - Starting application...
+2021-05-23 00:33:33 INFO  GameMain:34 - The player1 name is set to {}, loading game scene
+2021-05-23 00:33:33 INFO  GameMain:35 - The player2 name is set to {}, loading game scene
+2021-05-23 00:33:34 DEBUG Playing:306 - settlement is pressed
+2021-05-23 00:33:34 INFO  Playing:310 - Loading high scores scene...
+2021-05-23 00:33:34 DEBUG Result:47 - Loading Play record...
+2021-05-23 00:34:04 INFO  GameStart:16 - Starting application...
+2021-05-23 00:34:05 INFO  GameMain:34 - The player1 name is set to {}, loading game scene
+2021-05-23 00:34:05 INFO  GameMain:35 - The player2 name is set to {}, loading game scene
+2021-05-23 00:34:06 DEBUG Playing:306 - settlement is pressed
+2021-05-23 00:34:06 INFO  Playing:310 - Loading high scores scene...
+2021-05-23 00:34:06 DEBUG Result:47 - Loading Play record...
+2021-05-23 00:34:26 INFO  GameStart:16 - Starting application...
+2021-05-23 00:34:28 INFO  GameMain:34 - The player1 name is set to {}, loading game scene
+2021-05-23 00:34:28 INFO  GameMain:35 - The player2 name is set to {}, loading game scene
+2021-05-23 00:34:29 DEBUG Playing:306 - settlement is pressed
+2021-05-23 00:34:29 INFO  Playing:310 - Loading high scores scene...
+2021-05-23 00:34:29 DEBUG Result:47 - Loading Play record...
+2021-05-23 00:34:54 INFO  GameStart:16 - Starting application...
+2021-05-23 00:34:56 INFO  GameMain:34 - The player1 name is set to {}, loading game scene
+2021-05-23 00:34:56 INFO  GameMain:35 - The player2 name is set to {}, loading game scene
+2021-05-23 00:34:57 DEBUG Playing:306 - settlement is pressed
+2021-05-23 00:34:57 INFO  Playing:310 - Loading high scores scene...
+2021-05-23 00:34:57 DEBUG Result:47 - Loading Play record...
+2021-05-23 01:58:01 INFO  xmlUtil:30 - Game Data:<Result><CreateTime>2021-05-22T15:37:15.336119200Z</CreateTime><Playone>test1</Playone><Playtwo>test2</Playtwo><PlayTime>00:00:01</PlayTime><Winer>qwe</Winer><Settlement>0</Settlement></Result>
+2021-05-23 01:58:01 DEBUG xmlUtil:35 - FilePath:/F:/外包/javafx_boardgame/target/classes/xml/GameResult.xml
+2021-05-23 01:58:28 INFO  xmlutilTest:32 - GameResult(CreateTime=2021-05-22T15:37:15.336119200Z, Playone=test1, Playtwo=test2, PlayTime=00:00:01, Winer=qwe, Settlement=0)
+2021-05-23 15:38:58 INFO  GameStart:16 - Starting application...
+2021-05-23 15:39:01 INFO  GameMain:41 - The player1 name is set to {adssad}, loading game scene
+2021-05-23 15:39:01 INFO  GameMain:42 - The player2 name is set to {asdas}, loading game scene
+2021-05-23 15:39:02 INFO  Playing:158 - Click on square (1,4)
+2021-05-23 15:39:02 INFO  Playing:158 - Click on square (1,3)
+2021-05-23 15:39:02 INFO  Playing:174 - Moving piece 6 LEFT
+2021-05-23 15:39:02 INFO  Playing:248 - Move: (1,4) -> (1,3)
+2021-05-23 15:39:02 INFO  Victory:36 - this color:BLUE
+2021-05-23 15:39:03 INFO  Playing:158 - Click on square (1,0)
+2021-05-23 15:58:26 INFO  GameStart:16 - Starting application...
+2021-05-23 15:58:30 INFO  GameMain:41 - The player1 name is set to {aaa}, loading game scene
+2021-05-23 15:58:30 INFO  GameMain:42 - The player2 name is set to {bbbb}, loading game scene
+2021-05-23 15:58:30 INFO  Playing:159 - Click on square (1,0)
+2021-05-23 15:58:31 INFO  Playing:159 - Click on square (1,1)
+2021-05-23 15:58:31 INFO  Playing:175 - Moving piece 5 RIGHT
+2021-05-23 15:58:31 INFO  Playing:249 - Move: (1,0) -> (1,1)
+2021-05-23 15:58:31 INFO  Victory:36 - this color:BLUE
+2021-05-23 16:10:07 INFO  Playing:159 - Click on square (1,1)
+2021-05-23 16:10:08 INFO  Playing:159 - Click on square (2,2)
+2021-05-23 16:10:08 INFO  Playing:175 - Moving piece 5 DOWN_RIGHT
+2021-05-23 16:10:08 INFO  Playing:249 - Move: (1,1) -> (2,2)
+2021-05-23 16:10:08 INFO  Victory:36 - this color:BLUE
+2021-05-23 16:10:08 INFO  Playing:159 - Click on square (1,4)
+2021-05-23 16:10:31 INFO  Playing:159 - Click on square (2,3)
+2021-05-23 16:10:31 INFO  Playing:175 - Moving piece 6 DOWN_LEFT
+2021-05-23 16:10:31 INFO  Playing:249 - Move: (1,4) -> (2,3)
+2021-05-23 16:10:31 INFO  Victory:36 - this color:BLUE
+2021-05-23 16:10:39 INFO  Playing:159 - Click on square (0,0)
+2021-05-23 16:10:39 INFO  Playing:159 - Click on square (1,1)
+2021-05-23 16:10:39 INFO  Playing:175 - Moving piece 0 DOWN_RIGHT
+2021-05-23 16:10:39 INFO  Playing:249 - Move: (0,0) -> (1,1)
+2021-05-23 16:10:39 INFO  Victory:36 - this color:BLUE
+2021-05-23 16:10:40 INFO  Playing:159 - Click on square (0,1)
+2021-05-23 16:10:40 INFO  Playing:159 - Click on square (1,2)
+2021-05-23 16:10:40 INFO  Playing:175 - Moving piece 1 DOWN_RIGHT
+2021-05-23 16:10:40 INFO  Playing:249 - Move: (0,1) -> (1,2)
+2021-05-23 16:10:40 INFO  Victory:36 - this color:BLUE
+2021-05-23 16:10:40 INFO  Playing:159 - Click on square (0,2)
+2021-05-23 16:10:41 INFO  Playing:159 - Click on square (1,3)
+2021-05-23 16:10:41 INFO  Playing:175 - Moving piece 2 DOWN_RIGHT
+2021-05-23 16:10:41 INFO  Playing:249 - Move: (0,2) -> (1,3)
+2021-05-23 16:10:41 INFO  Victory:36 - this color:BLUE
+2021-05-23 16:10:41 INFO  Playing:159 - Click on square (0,4)
+2021-05-23 16:10:42 INFO  Playing:159 - Click on square (1,4)
+2021-05-23 16:10:42 INFO  Playing:175 - Moving piece 4 DOWN
+2021-05-23 16:10:42 INFO  Playing:249 - Move: (0,4) -> (1,4)
+2021-05-23 16:10:42 INFO  Victory:36 - this color:BLUE
+2021-05-23 16:10:42 INFO  Playing:159 - Click on square (2,2)
+2021-05-23 16:10:42 INFO  Playing:159 - Click on square (2,2)
+2021-05-23 16:10:43 INFO  Playing:159 - Click on square (2,1)
+2021-05-23 16:10:43 INFO  Playing:175 - Moving piece 5 LEFT
+2021-05-23 16:10:43 INFO  Playing:249 - Move: (2,2) -> (2,1)
+2021-05-23 16:10:43 INFO  Victory:36 - this color:BLUE
+2021-05-23 16:10:43 INFO  Playing:159 - Click on square (2,3)
+2021-05-23 16:10:44 INFO  Playing:159 - Click on square (2,2)
+2021-05-23 16:10:44 INFO  Playing:175 - Moving piece 6 LEFT
+2021-05-23 16:10:44 INFO  Playing:249 - Move: (2,3) -> (2,2)
+2021-05-23 16:10:44 INFO  Victory:36 - this color:BLUE
+2021-05-23 16:10:44 INFO  Playing:159 - Click on square (1,4)
+2021-05-23 16:10:44 INFO  Playing:159 - Click on square (2,3)
+2021-05-23 16:10:44 INFO  Playing:175 - Moving piece 4 DOWN_LEFT
+2021-05-23 16:10:44 INFO  Playing:249 - Move: (1,4) -> (2,3)
+2021-05-23 16:10:44 INFO  Victory:36 - this color:BLUE
+2021-05-23 16:10:44 INFO  Playing:159 - Click on square (0,3)
+2021-05-23 16:10:46 INFO  Playing:159 - Click on square (0,2)
+2021-05-23 16:10:46 INFO  Playing:175 - Moving piece 3 LEFT
+2021-05-23 16:10:46 INFO  Playing:249 - Move: (0,3) -> (0,2)
+2021-05-23 16:10:46 INFO  Victory:36 - this color:BLUE
+2021-05-23 16:10:46 INFO  Playing:159 - Click on square (3,0)
+2021-05-23 16:10:46 INFO  Playing:159 - Click on square (2,0)
+2021-05-23 16:10:46 INFO  Playing:175 - Moving piece 7 UP
+2021-05-23 16:10:46 INFO  Playing:249 - Move: (3,0) -> (2,0)
+2021-05-23 16:10:46 INFO  Victory:36 - this color:RED
+2021-05-23 16:10:47 INFO  Playing:159 - Click on square (2,0)
+2021-05-23 16:10:47 INFO  Playing:159 - Click on square (1,0)
+2021-05-23 16:10:47 INFO  Playing:175 - Moving piece 7 UP
+2021-05-23 16:10:47 INFO  Playing:249 - Move: (2,0) -> (1,0)
+2021-05-23 16:10:47 INFO  Victory:36 - this color:RED
+2021-05-23 16:10:47 INFO  Playing:159 - Click on square (1,0)
+2021-05-23 16:10:47 INFO  Playing:159 - Click on square (0,0)
+2021-05-23 16:10:47 INFO  Playing:175 - Moving piece 7 UP
+2021-05-23 16:10:47 INFO  Playing:249 - Move: (1,0) -> (0,0)
+2021-05-23 16:10:47 INFO  Victory:36 - this color:RED
+2021-05-23 16:10:48 INFO  Playing:159 - Click on square (0,2)
+2021-05-23 16:10:48 INFO  Playing:159 - Click on square (0,3)
+2021-05-23 16:10:48 INFO  Playing:175 - Moving piece 3 RIGHT
+2021-05-23 16:10:48 INFO  Playing:249 - Move: (0,2) -> (0,3)
+2021-05-23 16:10:48 INFO  Victory:36 - this color:BLUE
+2021-05-23 16:10:49 INFO  Playing:159 - Click on square (0,0)
+2021-05-23 16:10:49 INFO  Playing:159 - Click on square (0,1)
+2021-05-23 16:10:49 INFO  Playing:175 - Moving piece 7 RIGHT
+2021-05-23 16:10:49 INFO  Playing:249 - Move: (0,0) -> (0,1)
+2021-05-23 16:10:49 INFO  Victory:36 - this color:RED
+2021-05-23 16:10:49 INFO  Playing:159 - Click on square (0,1)
+2021-05-23 16:10:50 INFO  Playing:159 - Click on square (0,2)
+2021-05-23 16:10:50 INFO  Playing:175 - Moving piece 7 RIGHT
+2021-05-23 16:10:50 INFO  Playing:249 - Move: (0,1) -> (0,2)
+2021-05-23 16:10:50 INFO  Victory:36 - this color:RED
+2021-05-23 16:10:50 INFO  Playing:159 - Click on square (0,3)
+2021-05-23 16:10:50 INFO  Playing:159 - Click on square (0,4)
+2021-05-23 16:10:50 INFO  Playing:175 - Moving piece 3 RIGHT
+2021-05-23 16:10:50 INFO  Playing:249 - Move: (0,3) -> (0,4)
+2021-05-23 16:10:50 INFO  Victory:36 - this color:BLUE
+2021-05-23 16:10:50 INFO  Playing:159 - Click on square (0,2)
+2021-05-23 16:10:51 INFO  Playing:159 - Click on square (0,3)
+2021-05-23 16:10:51 INFO  Playing:175 - Moving piece 7 RIGHT
+2021-05-23 16:10:51 INFO  Playing:249 - Move: (0,2) -> (0,3)
+2021-05-23 16:10:51 INFO  Victory:36 - this color:RED
+2021-05-23 16:10:51 INFO  Playing:159 - Click on square (0,4)
+2021-05-23 16:10:51 INFO  Playing:159 - Click on square (1,4)
+2021-05-23 16:10:51 INFO  Playing:175 - Moving piece 3 DOWN
+2021-05-23 16:10:51 INFO  Playing:249 - Move: (0,4) -> (1,4)
+2021-05-23 16:10:51 INFO  Victory:36 - this color:BLUE
+2021-05-23 16:10:52 INFO  Playing:159 - Click on square (1,4)
+2021-05-23 16:10:52 INFO  Playing:159 - Click on square (2,4)
+2021-05-23 16:10:52 INFO  Playing:175 - Moving piece 3 DOWN
+2021-05-23 16:10:52 INFO  Playing:249 - Move: (1,4) -> (2,4)
+2021-05-23 16:10:52 INFO  Victory:36 - this color:BLUE
+2021-05-23 16:10:52 INFO  Playing:159 - Click on square (2,2)
+2021-05-23 16:10:52 INFO  Playing:159 - Click on square (3,2)
+2021-05-23 16:10:52 INFO  Playing:175 - Moving piece 6 DOWN
+2021-05-23 16:10:52 INFO  Playing:249 - Move: (2,2) -> (3,2)
+2021-05-23 16:10:52 INFO  Victory:36 - this color:BLUE
+2021-05-23 16:10:53 INFO  Playing:159 - Click on square (2,3)
+2021-05-23 16:10:53 INFO  Playing:159 - Click on square (2,2)
+2021-05-23 16:10:53 INFO  Playing:175 - Moving piece 4 LEFT
+2021-05-23 16:10:53 INFO  Playing:249 - Move: (2,3) -> (2,2)
+2021-05-23 16:10:53 INFO  Victory:36 - this color:BLUE
+2021-05-23 16:10:53 INFO  Playing:159 - Click on square (2,3)
+2021-05-23 16:10:54 INFO  Playing:159 - Click on square (2,4)
+2021-05-23 16:10:54 INFO  Playing:159 - Click on square (2,3)
+2021-05-23 16:10:54 INFO  Playing:175 - Moving piece 3 LEFT
+2021-05-23 16:10:54 INFO  Playing:249 - Move: (2,4) -> (2,3)
+2021-05-23 16:10:54 INFO  Victory:36 - this color:BLUE
+2021-05-23 16:10:54 INFO  Playing:159 - Click on square (3,4)
+2021-05-23 16:10:54 INFO  Playing:159 - Click on square (2,4)
+2021-05-23 16:10:54 INFO  Playing:175 - Moving piece 8 UP
+2021-05-23 16:10:54 INFO  Playing:249 - Move: (3,4) -> (2,4)
+2021-05-23 16:10:54 INFO  Victory:36 - this color:RED
+2021-05-23 16:10:55 INFO  Playing:159 - Click on square (2,4)
+2021-05-23 16:10:55 INFO  Playing:159 - Click on square (1,4)
+2021-05-23 16:10:55 INFO  Playing:175 - Moving piece 8 UP
+2021-05-23 16:10:55 INFO  Playing:249 - Move: (2,4) -> (1,4)
+2021-05-23 16:10:55 INFO  Victory:36 - this color:RED
+2021-05-23 16:10:55 INFO  Playing:159 - Click on square (1,4)
+2021-05-23 16:10:55 INFO  Playing:159 - Click on square (0,4)
+2021-05-23 16:10:55 INFO  Playing:175 - Moving piece 8 UP
+2021-05-23 16:10:55 INFO  Playing:249 - Move: (1,4) -> (0,4)
+2021-05-23 16:10:55 INFO  Victory:36 - this color:RED
+2021-05-23 16:10:56 INFO  Playing:159 - Click on square (4,4)
+2021-05-23 16:10:56 INFO  Playing:159 - Click on square (3,4)
+2021-05-23 16:10:56 INFO  Playing:175 - Moving piece 13 UP
+2021-05-23 16:10:56 INFO  Playing:249 - Move: (4,4) -> (3,4)
+2021-05-23 16:10:56 INFO  Victory:36 - this color:RED
+2021-05-23 16:10:56 INFO  Playing:159 - Click on square (3,4)
+2021-05-23 16:10:57 INFO  Playing:159 - Click on square (2,4)
+2021-05-23 16:10:57 INFO  Playing:175 - Moving piece 13 UP
+2021-05-23 16:10:57 INFO  Playing:249 - Move: (3,4) -> (2,4)
+2021-05-23 16:10:57 INFO  Victory:36 - this color:RED
+2021-05-23 16:10:57 INFO  Playing:159 - Click on square (2,4)
+2021-05-23 16:10:57 INFO  Playing:159 - Click on square (1,4)
+2021-05-23 16:10:57 INFO  Playing:175 - Moving piece 13 UP
+2021-05-23 16:10:57 INFO  Playing:249 - Move: (2,4) -> (1,4)
+2021-05-23 16:10:57 INFO  Victory:36 - this color:RED
+2021-05-23 16:10:58 INFO  Playing:159 - Click on square (4,0)
+2021-05-23 16:10:58 INFO  Playing:159 - Click on square (3,0)
+2021-05-23 16:10:58 INFO  Playing:175 - Moving piece 9 UP
+2021-05-23 16:10:58 INFO  Playing:249 - Move: (4,0) -> (3,0)
+2021-05-23 16:10:58 INFO  Victory:36 - this color:RED
+2021-05-23 16:10:58 INFO  Playing:159 - Click on square (3,0)
+2021-05-23 16:10:58 INFO  Playing:159 - Click on square (2,0)
+2021-05-23 16:10:58 INFO  Playing:175 - Moving piece 9 UP
+2021-05-23 16:10:58 INFO  Playing:249 - Move: (3,0) -> (2,0)
+2021-05-23 16:10:58 INFO  Victory:36 - this color:RED
+2021-05-23 16:10:59 INFO  Playing:159 - Click on square (2,0)
+2021-05-23 16:10:59 INFO  Playing:159 - Click on square (1,0)
+2021-05-23 16:10:59 INFO  Playing:175 - Moving piece 9 UP
+2021-05-23 16:10:59 INFO  Playing:249 - Move: (2,0) -> (1,0)
+2021-05-23 16:10:59 INFO  Victory:36 - this color:RED
+2021-05-23 16:10:59 INFO  Playing:159 - Click on square (1,0)
+2021-05-23 16:10:59 INFO  Playing:159 - Click on square (0,0)
+2021-05-23 16:10:59 INFO  Playing:175 - Moving piece 9 UP
+2021-05-23 16:10:59 INFO  Playing:249 - Move: (1,0) -> (0,0)
+2021-05-23 16:10:59 INFO  Victory:36 - this color:RED
+2021-05-23 16:11:00 INFO  Playing:159 - Click on square (0,0)
+2021-05-23 16:11:00 INFO  Playing:159 - Click on square (0,1)
+2021-05-23 16:11:00 INFO  Playing:175 - Moving piece 9 RIGHT
+2021-05-23 16:11:00 INFO  Playing:249 - Move: (0,0) -> (0,1)
+2021-05-23 16:11:00 INFO  Victory:36 - this color:RED
+2021-05-23 16:11:00 INFO  Playing:159 - Click on square (0,1)
+2021-05-23 16:11:00 INFO  Playing:159 - Click on square (0,2)
+2021-05-23 16:11:00 INFO  Playing:175 - Moving piece 9 RIGHT
+2021-05-23 16:11:00 INFO  Playing:249 - Move: (0,1) -> (0,2)
+2021-05-23 16:11:00 INFO  Victory:36 - this color:RED
+2021-05-23 16:11:01 INFO  Playing:159 - Click on square (4,1)
+2021-05-23 16:11:01 INFO  Playing:159 - Click on square (4,0)
+2021-05-23 16:11:01 INFO  Playing:175 - Moving piece 10 LEFT
+2021-05-23 16:11:01 INFO  Playing:249 - Move: (4,1) -> (4,0)
+2021-05-23 16:11:01 INFO  Victory:36 - this color:RED
+2021-05-23 16:11:01 INFO  Playing:159 - Click on square (4,0)
+2021-05-23 16:11:01 INFO  Playing:159 - Click on square (3,0)
+2021-05-23 16:11:01 INFO  Playing:175 - Moving piece 10 UP
+2021-05-23 16:11:01 INFO  Playing:249 - Move: (4,0) -> (3,0)
+2021-05-23 16:11:01 INFO  Victory:36 - this color:RED
+2021-05-23 16:11:01 INFO  Playing:159 - Click on square (3,0)
+2021-05-23 16:11:02 INFO  Playing:159 - Click on square (2,0)
+2021-05-23 16:11:02 INFO  Playing:175 - Moving piece 10 UP
+2021-05-23 16:11:02 INFO  Playing:249 - Move: (3,0) -> (2,0)
+2021-05-23 16:11:02 INFO  Victory:36 - this color:RED
+2021-05-23 16:11:02 INFO  Playing:159 - Click on square (2,0)
+2021-05-23 16:11:02 INFO  Playing:159 - Click on square (1,0)
+2021-05-23 16:11:02 INFO  Playing:175 - Moving piece 10 UP
+2021-05-23 16:11:02 INFO  Playing:249 - Move: (2,0) -> (1,0)
+2021-05-23 16:11:02 INFO  Victory:36 - this color:RED
+2021-05-23 16:11:02 INFO  Playing:159 - Click on square (1,0)
+2021-05-23 16:11:03 INFO  Playing:159 - Click on square (0,0)
+2021-05-23 16:11:03 INFO  Playing:175 - Moving piece 10 UP
+2021-05-23 16:11:03 INFO  Playing:249 - Move: (1,0) -> (0,0)
+2021-05-23 16:11:03 INFO  Victory:36 - this color:RED
+2021-05-23 16:11:03 INFO  Playing:159 - Click on square (0,0)
+2021-05-23 16:11:03 INFO  Playing:159 - Click on square (0,1)
+2021-05-23 16:11:03 INFO  Playing:175 - Moving piece 10 RIGHT
+2021-05-23 16:11:03 INFO  Playing:249 - Move: (0,0) -> (0,1)
+2021-05-23 16:11:03 INFO  Victory:36 - this color:RED
+2021-05-23 16:11:03 INFO  Playing:159 - Click on square (4,2)
+2021-05-23 16:11:04 INFO  Playing:159 - Click on square (4,1)
+2021-05-23 16:11:04 INFO  Playing:175 - Moving piece 11 LEFT
+2021-05-23 16:11:04 INFO  Playing:249 - Move: (4,2) -> (4,1)
+2021-05-23 16:11:04 INFO  Victory:36 - this color:RED
+2021-05-23 16:11:04 INFO  Playing:159 - Click on square (4,1)
+2021-05-23 16:11:04 INFO  Playing:159 - Click on square (4,0)
+2021-05-23 16:11:04 INFO  Playing:175 - Moving piece 11 LEFT
+2021-05-23 16:11:04 INFO  Playing:249 - Move: (4,1) -> (4,0)
+2021-05-23 16:11:04 INFO  Victory:36 - this color:RED
+2021-05-23 16:11:04 INFO  Playing:159 - Click on square (4,0)
+2021-05-23 16:11:04 INFO  Playing:159 - Click on square (3,0)
+2021-05-23 16:11:04 INFO  Playing:175 - Moving piece 11 UP
+2021-05-23 16:11:04 INFO  Playing:249 - Move: (4,0) -> (3,0)
+2021-05-23 16:11:04 INFO  Victory:36 - this color:RED
+2021-05-23 16:11:05 INFO  Playing:159 - Click on square (3,0)
+2021-05-23 16:11:05 INFO  Playing:159 - Click on square (2,0)
+2021-05-23 16:11:05 INFO  Playing:175 - Moving piece 11 UP
+2021-05-23 16:11:05 INFO  Playing:249 - Move: (3,0) -> (2,0)
+2021-05-23 16:11:05 INFO  Victory:36 - this color:RED
+2021-05-23 16:11:05 INFO  Playing:159 - Click on square (2,0)
+2021-05-23 16:11:05 INFO  Playing:159 - Click on square (1,0)
+2021-05-23 16:11:05 INFO  Playing:175 - Moving piece 11 UP
+2021-05-23 16:11:05 INFO  Playing:249 - Move: (2,0) -> (1,0)
+2021-05-23 16:11:05 INFO  Victory:36 - this color:RED
+2021-05-23 16:11:06 INFO  Playing:159 - Click on square (1,0)
+2021-05-23 16:11:06 INFO  Playing:159 - Click on square (0,0)
+2021-05-23 16:11:06 INFO  Playing:175 - Moving piece 11 UP
+2021-05-23 16:11:06 INFO  Playing:249 - Move: (1,0) -> (0,0)
+2021-05-23 16:11:06 INFO  Victory:36 - this color:RED
+2021-05-23 16:11:06 INFO  Playing:159 - Click on square (4,3)
+2021-05-23 16:11:07 INFO  Playing:159 - Click on square (4,2)
+2021-05-23 16:11:07 INFO  Playing:175 - Moving piece 12 LEFT
+2021-05-23 16:11:07 INFO  Playing:249 - Move: (4,3) -> (4,2)
+2021-05-23 16:11:07 INFO  Victory:36 - this color:RED
+2021-05-23 16:11:07 INFO  Playing:159 - Click on square (4,2)
+2021-05-23 16:11:07 INFO  Playing:159 - Click on square (4,1)
+2021-05-23 16:11:07 INFO  Playing:175 - Moving piece 12 LEFT
+2021-05-23 16:11:07 INFO  Playing:249 - Move: (4,2) -> (4,1)
+2021-05-23 16:11:07 INFO  Victory:36 - this color:RED
+2021-05-23 16:11:07 INFO  Playing:159 - Click on square (4,1)
+2021-05-23 16:11:07 INFO  Playing:159 - Click on square (4,0)
+2021-05-23 16:11:07 INFO  Playing:175 - Moving piece 12 LEFT
+2021-05-23 16:11:07 INFO  Playing:249 - Move: (4,1) -> (4,0)
+2021-05-23 16:11:07 INFO  Victory:36 - this color:RED
+2021-05-23 16:11:08 INFO  Playing:159 - Click on square (4,0)
+2021-05-23 16:11:08 INFO  Playing:159 - Click on square (3,0)
+2021-05-23 16:11:08 INFO  Playing:175 - Moving piece 12 UP
+2021-05-23 16:11:08 INFO  Playing:249 - Move: (4,0) -> (3,0)
+2021-05-23 16:11:08 INFO  Victory:36 - this color:RED
+2021-05-23 16:11:08 INFO  Playing:159 - Click on square (3,0)
+2021-05-23 16:11:09 INFO  Playing:159 - Click on square (2,0)
+2021-05-23 16:11:09 INFO  Playing:175 - Moving piece 12 UP
+2021-05-23 16:11:09 INFO  Playing:249 - Move: (3,0) -> (2,0)
+2021-05-23 16:11:09 INFO  Victory:36 - this color:RED
+2021-05-23 16:11:09 INFO  Playing:159 - Click on square (2,0)
+2021-05-23 16:11:10 INFO  Playing:159 - Click on square (1,0)
+2021-05-23 16:11:10 INFO  Playing:175 - Moving piece 12 UP
+2021-05-23 16:11:10 INFO  Playing:249 - Move: (2,0) -> (1,0)
+2021-05-23 16:11:10 INFO  Victory:36 - this color:RED
+2021-05-23 16:11:17 INFO  Playing:342 - Game informationGameResult(CreateTime=2021-05-23T14:11:17.674630600Z, Playone=aaa, Playtwo=bbbb, PlayTime=00:12:47, Winer=aaa, Settlement=54)
+2021-05-23 16:11:17 INFO  xmlUtil:30 - Game Data:<Result><CreateTime>2021-05-23T14:11:17.674630600Z</CreateTime><Playone>aaa</Playone><Playtwo>bbbb</Playtwo><PlayTime>00:12:47</PlayTime><Winer>aaa</Winer><Settlement>54</Settlement></Result>
+2021-05-23 16:11:17 DEBUG xmlUtil:35 - FilePath:/F:/final-project/javafx_boardgame/target/classes/xml/GameResult.xml
