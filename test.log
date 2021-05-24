@@ -1773,3 +1773,18 @@
 2021-05-23 16:11:17 INFO  Playing:342 - Game informationGameResult(CreateTime=2021-05-23T14:11:17.674630600Z, Playone=aaa, Playtwo=bbbb, PlayTime=00:12:47, Winer=aaa, Settlement=54)
 2021-05-23 16:11:17 INFO  xmlUtil:30 - Game Data:<Result><CreateTime>2021-05-23T14:11:17.674630600Z</CreateTime><Playone>aaa</Playone><Playtwo>bbbb</Playtwo><PlayTime>00:12:47</PlayTime><Winer>aaa</Winer><Settlement>54</Settlement></Result>
 2021-05-23 16:11:17 DEBUG xmlUtil:35 - FilePath:/F:/final-project/javafx_boardgame/target/classes/xml/GameResult.xml
+2021-05-24 10:13:25 INFO  xmlUtil:30 - Game Data:<Result><CreateTime>2021-05-22T15:37:15.336119200Z</CreateTime><Playone>test1</Playone><Playtwo>test2</Playtwo><PlayTime>00:00:01</PlayTime><Winer>qwe</Winer><Settlement>0</Settlement></Result>
+2021-05-24 10:13:25 DEBUG xmlUtil:36 - FilePath:/F:/final-project/javafx_boardgame/target/classes/xml/GameResult.xml
+2021-05-24 10:13:25 INFO  xmlutilTest:32 - GameResult(CreateTime=2021-05-22T15:37:15.336119200Z, Playone=test1, Playtwo=test2, PlayTime=00:00:01, Winer=qwe, Settlement=0)
+2021-05-24 10:13:25 INFO  xmlutilTest:32 - GameResult(CreateTime=2021-05-23T14:11:17.674630600Z, Playone=aaa, Playtwo=bbbb, PlayTime=00:12:47, Winer=aaa, Settlement=54)
+2021-05-24 10:16:16 INFO  xmlUtil:30 - Game Data:<Result><CreateTime>2021-05-22T15:37:15.336119200Z</CreateTime><Playone>test1</Playone><Playtwo>test2</Playtwo><PlayTime>00:00:01</PlayTime><Winer>qwe</Winer><Settlement>0</Settlement></Result>
+2021-05-24 10:16:16 DEBUG xmlUtil:36 - FilePath:/F:/final-project/javafx_boardgame/target/classes/xml/GameResult.xml
+2021-05-24 10:16:16 INFO  xmlutilTest:32 - GameResult(CreateTime=2021-05-22T15:37:15.336119200Z, Playone=test1, Playtwo=test2, PlayTime=00:00:01, Winer=qwe, Settlement=0)
+2021-05-24 10:16:16 INFO  xmlutilTest:32 - GameResult(CreateTime=2021-05-23T14:11:17.674630600Z, Playone=aaa, Playtwo=bbbb, PlayTime=00:12:47, Winer=aaa, Settlement=54)
+2021-05-24 10:25:00 INFO  xmlUtil:30 - Game Data:<Result><CreateTime>2021-05-22T15:37:15.336119200Z</CreateTime><Playone>test1</Playone><Playtwo>test2</Playtwo><PlayTime>00:00:01</PlayTime><Winer>qwe</Winer><Settlement>0</Settlement></Result>
+2021-05-24 10:25:00 DEBUG xmlUtil:36 - FilePath:/F:/final-project/javafx_boardgame/target/classes/xml/GameResult.xml
+2021-05-24 10:25:01 INFO  xmlutilTest:32 - GameResult(CreateTime=2021-05-22T15:37:15.336119200Z, Playone=test1, Playtwo=test2, PlayTime=00:00:01, Winer=qwe, Settlement=0)
+2021-05-24 10:25:01 INFO  xmlutilTest:32 - GameResult(CreateTime=2021-05-23T14:11:17.674630600Z, Playone=aaa, Playtwo=bbbb, PlayTime=00:12:47, Winer=aaa, Settlement=54)
+2021-05-24 10:37:13 INFO  GameStart:16 - Starting application...
+2021-05-24 10:37:16 INFO  GameMain:41 - The player1 name is set to {aaa}, loading game scene
+2021-05-24 10:37:16 INFO  GameMain:42 - The player2 name is set to {asdas}, loading game scene

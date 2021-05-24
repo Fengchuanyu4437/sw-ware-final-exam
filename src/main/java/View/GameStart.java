@@ -12,6 +12,7 @@ import lombok.extern.slf4j.Slf4j;
 public class GameStart extends Application {
     private FXMLLoader fxmlLoader;
     @Override
+    //加载主页面
     public void start(Stage stage) throws Exception {
         log.info("Starting application...");
         stage.setTitle("PlayBox");
@@ -20,4 +21,5 @@ public class GameStart extends Application {
         stage.setScene(scene);
         stage.show();
     }
+
 }
