@@ -7,27 +7,6 @@ import org.junit.jupiter.api.Test;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class BoardGameModelTest {
-    @Test
-    void testSetInitial() {
-        BoardGameModel boardGameModel = new BoardGameModel();
-        assertEquals(new BoardGameModel(new Stone(StoneType.BLUE, new Position(0, 0)),
-                new Stone(StoneType.BLUE, new Position(0, 1)),
-                new Stone(StoneType.BLUE, new Position(0, 2)),
-                new Stone(StoneType.BLUE, new Position(0, 3)),
-                new Stone(StoneType.BLUE, new Position(0, 4)),
-                new Stone(StoneType.BLUE, new Position(1, 0)),
-                new Stone(StoneType.BLUE, new Position(1, 4)),
-                new Stone(StoneType.RED, new Position(5 - 2, 0)),
-                new Stone(StoneType.RED, new Position(5 - 2, 4)),
-                new Stone(StoneType.RED, new Position(5 - 1, 0)),
-                new Stone(StoneType.RED, new Position(5 - 1, 1)),
-                new Stone(StoneType.RED, new Position(5 - 1, 2)),
-                new Stone(StoneType.RED, new Position(5 - 1, 3)),
-                new Stone(StoneType.RED, new Position(5 - 1, 4))
-        ),boardGameModel);
-    }
-
-
 
 
     @Test
